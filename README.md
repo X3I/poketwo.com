@@ -1,1 +1,1 @@
-# PokeTwo.com - A community support site for the PokeOne game.
+# PokeTwo.com - A community support site for the PokéOne game.

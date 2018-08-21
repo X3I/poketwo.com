@@ -3,7 +3,7 @@ permalink: /guides/guilds
 
 image: /img/logo.png
 description: >
-  Guilds exist as communities within PokeOne. Although there is no strategic value
+  Guilds exist as communities within PokéOne. Although there is no strategic value
   or particular benefit given by the game for joining one (other than a sweet logo
   above your head), each individual guild offers benefits designed for their
   community. Check out #guild-recruitment for examples and a list of guilds
@@ -11,7 +11,7 @@ description: >
 ---
 # Guilds
 
-Guilds exist as communities within PokeOne. Although there is no strategic value
+Guilds exist as communities within PokéOne. Although there is no strategic value
 or particular benefit given by the game for joining one (other than a sweet logo
 above your head), each individual guild offers benefits designed for their
 community. Check out `#guild-recruitment` for examples and a list of guilds

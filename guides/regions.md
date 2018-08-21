@@ -2,7 +2,7 @@
 permalink: /guides/regions
 
 image: /img/logo.png
-description: Regional information for the PokeOne game.
+description: Regional information for the PokéOne game.
 ---
 
 # Regions

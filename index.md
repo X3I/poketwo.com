@@ -2,7 +2,7 @@
 image: /img/logo.png
 ---
 
-# PokeTwo - The Unofficial FAQ for PokeOne
+# PokeTwo - The Unofficial FAQ for PokéOne
 
 Please note that this guide is a living __work in progress__. If you find
 something that's wrong or missing from the guides, or would like to add a new
@@ -11,8 +11,13 @@ discord server.
 
 # Table of Contents
 
+
 * [Server Status](https://status.poketwo.com/)
 * [Download Mirror](https://cdn.poketwo.com/installer.exe)
+
+## Official Links
+
+* [Official PokéOne Discord](https://discord.gg/bNYRTFn)
 
 ## Game Guides
 

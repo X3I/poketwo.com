@@ -85,6 +85,7 @@ image: /img/logo.png
 
 ### Specific Acronyms
 
+* [BST - Base Stat Total](/acronyms/bst)
 * [HA - Hidden Ability](/acronyms/ha)
 
 ### Sets of Acronyms

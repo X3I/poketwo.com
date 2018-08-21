@@ -109,8 +109,8 @@ discord server.
 
 ## TM Locations
 
-* [TM 29](/tm/29)
-* [TM 36](/tm/36)
+* [TM 29 - Psychic](/tm/29)
+* [TM 36 - Slude Bomb](/tm/36)
 
 ## Quests
 

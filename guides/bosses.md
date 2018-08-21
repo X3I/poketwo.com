@@ -2,7 +2,7 @@
 permalink: /guides/bosses
 
 image: /img/logo.png
-description: For the time being, only the legendary trios for Kanto and Johto are obtainable.
+description: There are numerous Bosses present in the game as of now.
 ---
 
 # Daily Bosses

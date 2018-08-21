@@ -35,7 +35,10 @@ Found at the depths of the Whirl Islands, Lugia, the Boss Pokémon, is unlocked 
 
 ### Kyogre/Groudon/Rayquaza
 
-Found in the Embedded Tower, these three Boss Pokémon are a special case. They need a drop from other Bosses, the Jade Orb, to be summoned, the Rock Climb move, and either of the three are only summoned on a specific day, except for Thursdays:
+Found in the [Embedded Tower](/locations/embedded-tower), these three Boss
+Pokémon are a special case. They need a drop from other Bosses, the Jade Orb, to
+be summoned, the [Rock Climb](/moves/rock-climb) move, and either of the three
+are only summoned on a specific day, except for Thursdays:
 
 * Kyogre - Monday and Saturday
 * Groudon - Wednesday and Sunday

@@ -23,3 +23,7 @@ resets, and breeding doesn't lend itself well to an MMO game.
 ## Razor Claw & Razor Fang
 
 These items are not currently in the game.
+
+## Eeveelutions: Glaceon & Leafeon
+
+Glaceon & Leafeon do not currently exist in the game.

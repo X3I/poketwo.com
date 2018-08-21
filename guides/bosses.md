@@ -2,6 +2,13 @@
 permalink: /guides/bosses
 image: /img/logo.png
 description: There are numerous Bosses present in the game as of now.
+redirect_from:
+  - /pokemon/mewtwo
+  - /pokemon/ho-oh
+  - /pokemon/lugia
+  - /pokemon/kyogre
+  - /pokemon/groudon
+  - /pokemon/rayquaza
 ---
 
 # Daily Bosses

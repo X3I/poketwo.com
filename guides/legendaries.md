@@ -20,7 +20,9 @@ For the time being, only the legendary trios for Kanto and Johto are obtainable.
 
 The legendary birds:
 
-> __Note:__ Only Zapdos is catchable before completing the Elite 4.
+> __Note:__ Only Zapdos is catchable before completing the Elite 4. If you speak
+> to Articuno before beating the Elite 4, he will flee. Come back after you've
+> progressed, and he will be waiting for you.
 
 * Moltres - Found in Victory Road ([Map](/img/maps/moltres.png))
 * Zapdos - Found in the Power Plant ([Map](/img/maps/zapdos.png))

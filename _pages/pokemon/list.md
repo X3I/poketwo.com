@@ -13,7 +13,7 @@ This list shows every Pokémon whether it is obtainable according to our current
 knowledge. Additionally it shows how to obtain the Pokémon and whether it can be
 gotten with having access to only Johto or Kanto.
 
-> This page is imported from the Unofficial Guide: https://docs.google.com/spreadsheets/d/1ptgBvTzxvzNisK1Sh7dW12IWEotlBpkpi-9TgEC3GuA/edit?usp=sharing
+> This page is imported from the [Unofficial Guide](https://docs.google.com/spreadsheets/d/1ptgBvTzxvzNisK1Sh7dW12IWEotlBpkpi-9TgEC3GuA/edit?usp=sharing)
 
 |  **Dex #** | **Name** | **Obtainable** | **Kanto** | **Johto** | **Methods** |  |
 |  ------ | ------ | ------ | ------ | ------ | ------ | ------ |

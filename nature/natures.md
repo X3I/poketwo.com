@@ -82,3 +82,5 @@ Check which stats are raised/lowered by your Pokémon's nature.
 |Sassy|Sp. Def|Speed|
 |Serious|Speed|Speed|
 |Timid|Speed|Attack|
+
+> This page is entirely derived from https://pokemondb.net/mechanics/natures

@@ -1,6 +1,5 @@
 ---
 permalink: /items/mushrooms
-
 image: /img/logo.png
 description: Mushrooms are used as currency for Learning (and Relearning) moves taught by an Egg Move Tutor.
 ---

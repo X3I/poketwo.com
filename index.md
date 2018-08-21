@@ -40,6 +40,8 @@ The Unofficial FAQ for the PokeOne Game
 
 ## Items
 
+### Specific Items
+
 * [Apricorns](/items/apricorns)
 * [Bike Voucher](/items/bike-voucher)
 * [Coin Case](/items/coin-case)
@@ -51,6 +53,10 @@ The Unofficial FAQ for the PokeOne Game
 * [Protector](/items/protector)
 * [Silver Wing](/items/silver-wing)
 * [Stones](/items/stones)
+
+### Locations & Guides
+
+* [Item Removers](/items/removers)
 * [Hidden Items](/items/hidden)
 
 ## IVs

@@ -11,5 +11,5 @@ You can find the Silver Wing on the same island as Lugia.
 
 ![silver wing](https://i.imgur.com/0pojro2.png)
 
-Currently we don’t have a map directly to the Silver Bell, but you should be
+Currently we don't have a map directly to the Silver Bell, but you should be
 able to locate it.

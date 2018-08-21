@@ -9,7 +9,7 @@ description: You require a Coin Case in order to gamble in a region's Game Corne
 
 ## Kanto
 
-You can find a Coin Case two buildings to the east of the Celadon Game Corner, you can talk to Mr. Crowley and he’ll give you one.
+You can find a Coin Case two buildings to the east of the Celadon Game Corner, you can talk to Mr. Crowley and he'll give you one.
 
 ## Johto
 

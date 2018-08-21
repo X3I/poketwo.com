@@ -22,10 +22,6 @@ title: Search
   </ul>
 </div>
 
-<div class="article-feeds">
-  <p class="text-muted">Browse the <a href="{{ '/archives/' | absolute_url }}">blog archives</a> or <a href="{{ '/atom.xml' | absolute_url }}">subscribe</a> to the full-text feed.</p>
-</div>
-
 <script>
 window.store = [
   {% for post in site.posts %}

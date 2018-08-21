@@ -5,16 +5,35 @@
 # `jekyll serve`. If you make changes to this file, you will need to restart the
 # local server.
 
+# Project settings
 theme: jekyll-theme-primer
-title: PokeTwo
+title: &title PokeTwo
 description: The Unofficial FAQ for the PokéOne Game
+
+# Compatibility named variables
+# These exist to provide consistency with expectations from plugins.
+name: *title
+
+# Project rendering settings
+title_separator: "-"
+
+# Date settings
+date_format: "%b %-d, %Y"
 
 # url settings
 baseurl: ""                # the subpath of your site, e.g. /blog
 url: "https://pokeone.com" # baseline & protocol of the site, without trailing slash
 
+# Analytics
 google_analytics: UA-48212212-8
 
+# Handling Reading
+include: []
+
+# Collections
+collections:
+
+# Plugins (previously gems)
 plugins:
   # default plugins
   - jekyll-coffeescript
@@ -31,6 +50,3 @@ plugins:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
-
-# Ensure pokemon get indexed
-include: ["pokemon"]

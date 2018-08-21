@@ -35,7 +35,7 @@ Saffron City
 
 Enter the Silph Co. Building, and proceed to Floor 5.
 
-* Head East, and and  `Team Rocket Taylor`
+* Head East, and pass `Team Rocket Taylor`
 * Head South until the end of the corridor
 * Head West towards the `Card Key`.
 

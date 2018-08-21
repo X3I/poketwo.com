@@ -1,6 +1,5 @@
 ---
 permalink: /items/apricorns
-
 image: /img/logo.png
 description: These are the locations of Acorns across Johto.
 ---

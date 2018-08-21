@@ -24,6 +24,19 @@ The Unofficial FAQ for the PokeOne Game
 * [Time](/game/time)
 * [Unsupported Features](/game/unsupported)
 
+## Pokemon
+
+* [Starters](/pokemon/starters)
+
+### Special Locations
+
+* [Eevee](/pokemon/eevee)
+* [Hitmonlee & Hitmonchan](/pokemon/dojo)
+* [Lapras](/pokemon/lapras)
+* [Magnezone](/pokemon/magnezone)
+* [Ralts](/pokemon/ralts)
+* [Snorlax](/pokemon/snorlax)
+
 ## Moves
 
 * [Cut](/moves/cut)

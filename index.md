@@ -1,11 +1,8 @@
 ---
 image: /img/logo.png
-description: Unofficial FAQ for the PokeOne Game
 ---
 
-# PokeTwo FAQ
-
-The Unofficial FAQ for the PokeOne Game
+# Table of Contents
 
 ## Game Guides
 

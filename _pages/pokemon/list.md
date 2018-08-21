@@ -19,7 +19,7 @@ gotten with having access to only Johto or Kanto.
 
 > This page is imported from the [Unofficial Guide](https://docs.google.com/spreadsheets/d/1ptgBvTzxvzNisK1Sh7dW12IWEotlBpkpi-9TgEC3GuA/edit?usp=sharing)
 
-|  **Dex #** | **Name** | **Obtainable** | **Kanto** | **Johto** | **Methods** |
+|  **#** | **Name** | **Obtainable** | **Kanto** | **Johto** | **Methods** |
 |  ------ | ------ | ------ | ------ | ------ | ------ |
 |  1 | Bulbasaur | <span class="green">YES</span> | **1x** |  | NPC Gift |
 |  2 | Ivysaur | <span class="green">YES</span> | **1x** |  | Evolve Bulbasaur (Lv. 16) |

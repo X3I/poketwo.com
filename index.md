@@ -8,8 +8,6 @@
 
 ## Moves
 
-### Notable Moves
-
 * [Cut](/moves/cut)
 * [Fly](/moves/fly)
 * [Headbutt](/moves/headbutt)

@@ -67,7 +67,13 @@ The Unofficial FAQ for the PokeOne Game
 
 ## Acronyms
 
+### Specific Acronyms
+
 * [HA - Hidden Ability](/acronyms/ha)
+
+### Sets of Acronyms
+
+* [Trade - Acronyms used in Trading](/acronyms/trade)
 
 ## TM Locations
 

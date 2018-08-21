@@ -15,7 +15,7 @@ The legendary birds:
 
 * Moltres - Found in Victory Road ([Map](/img/maps/moltres.png))
 * Zapdos - Found in the Power Plant ([Map](/img/maps/zapdos.png))
-* Articuno - Found in Ice Path.
+* Articuno - Found in Seafoam Islands.
 
   To find Articuno, enter from the South Entrance, Rock Smash go up the stairs and left. Then up the ladder across the ice and to the ladder on the right top. Then down and left to the next ladder and poof you are there
 
@@ -27,7 +27,7 @@ The legendary birds:
 
 ## Stats
 
-Legendaries do not benefit from the Syncrhonize ability, alongside all other
+Legendaries do not benefit from the Synchronize ability, alongside all other
 static encounter Pokémon, making popular Ability & Nature combinations much more
 valuable.
 

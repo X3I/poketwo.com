@@ -118,6 +118,7 @@ discord server.
 
 ### Johto
 
+* [Dragon's Den](/locations/dragons-den)
 * [Embedded Tower](/locations/embedded-tower)
 * [Whirl Islands](/locations/whirl-islands)
 

@@ -19,7 +19,7 @@ in Johto and the Sevii Islands.
 
 Due to Team Rocket having invaded the Silph Co. headquarters in Saffron City, a
 Team Rocket Grunt is initially guarding the front door, preventing entrance into
-the building. After the player has saved Mr. Fuji from Team Rocket at the
+the building. After the player has saved Mr. Silph from Team Rocket at the
 Pokémon Tower in Lavender Town, the guard will have disappeared, allowing the
 player to enter the building.
 

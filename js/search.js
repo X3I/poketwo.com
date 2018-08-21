@@ -17,7 +17,7 @@
         appendString += '    <a href="' + item.url + '" class="text-muted">' + item.url + '</a>';
         appendString += '    <a href="javascript:void(0);" class="clip" data-clipboard-text="' + item.url + '"><i class="fa fa-clipboard"></i></a>';
         appendString += '  </p>';
-        appendString += '  <p class="search-result-excerpt">' + item.content.substring(0, 150) + '</p>';
+        appendString += '  <p class="search-result-excerpt">' + item.content.substring(item.title.length, 150 + item.title.length) + '</p>';
         appendString += '</li>';
       }
 

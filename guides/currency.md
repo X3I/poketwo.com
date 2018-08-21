@@ -7,7 +7,7 @@ description: A base guide for the in-game currencies and generating income.
 
 # Currencies & Generating Income
 
-## Money (PK or ₽)
+## Money (Pokedollars, PK or ₽)
 
 Money is earned through winning NPC encounters (Trainers, Gym Leaders, the Elite
 4 + Champion, etc.).

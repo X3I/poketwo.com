@@ -1,7 +1,7 @@
 ---
 permalink: /items/tidal-bell
 image: /img/logo.png
-description: You can find the Silver Wing on the same island as Lugia.
+description: You can find the Tidal Bell in the Whirl Islands
 ---
 
 # Tidal Bell

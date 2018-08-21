@@ -63,7 +63,7 @@ discord server.
 
 ## Stats
 
-* [Happiness](/stats/happiness)
+* [Happiness (Friendliness)](/stats/happiness)
 
 ## Items
 

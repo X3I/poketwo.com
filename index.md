@@ -93,6 +93,7 @@ discord server.
 * [Silver Wing](/items/silver-wing)
 * [Soothe Bell](/items/soothe-bell)
 * [Stones](/items/stones)
+* [Tidal Bell](/items/tidal-bell)
 
 ### Locations & Guides
 

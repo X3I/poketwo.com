@@ -23,6 +23,7 @@
 
 ## Items
 
+* [Apricorns](/items/apricorns)
 * [Bike Voucher](/items/bike-voucher)
 * [Coin Case](/items/coin-case)
 * [Electirizer](/items/electirizer)
@@ -32,6 +33,7 @@
 * [Mushrooms](/items/mushrooms)
 * [Protector](/items/protector)
 * [Silver Wing](/items/silver-wing)
+* [Stones](/items/stones)
 
 ## Support Guides
 

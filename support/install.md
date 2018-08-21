@@ -6,7 +6,7 @@ description: >
   If you have __any__ problems with launching or playing the game, do these in the
   following order:
 
-  1. Run the launcher.exe inside your installation folder (%APPDATA%/PokeOne) as an Administrator
+  1. Open your %APPDATA%/PokeOne folder, right click on Launcher.exe, and select Run as administrator
   2. Disable your AntiVirus program
   3. Whitelist the game in your Firewall
   4. Update your video card drivers from the manufacturers website (NOT the app)

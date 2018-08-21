@@ -23,6 +23,10 @@ To create a guild, navigate to the `Social` menu (two blue chat bubbles) in the
 top right corner of your screen. Then, select the `Guild` tab and use the Create
 guild button. This will cost 1000 gold coins.
 
+## Joining a Guild
+
+You can join an existing guild by being invited by one of the members.
+
 ## Leaving a Guild
 
 To leave a guild, navigate to the `Social` menu (two blue chat bubbles) in the

@@ -3,6 +3,13 @@ permalink: /guides/legendaries
 
 image: /img/logo.png
 description: For the time being, only the legendary trios for Kanto and Johto are obtainable.
+redirect_from:
+  - /pokemon/moltres
+  - /pokemon/zapdos
+  - /pokemon/articuno
+  - /pokemon/entei
+  - /pokemon/raikou
+  - /pokemon/suicune
 ---
 
 # Legendaries

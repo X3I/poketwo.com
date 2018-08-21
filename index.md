@@ -23,6 +23,7 @@
 
 ## Items
 
+* [Gold Teeth](/items/gold-teth)
 * [Mushrooms](/items/mushrooms)
 
 ## Support Guides

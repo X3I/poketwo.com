@@ -13,4 +13,6 @@ You should look for help in:
 
 * The `#buy-sell-trade` discord channel
 * The `#Trade` channel in game (You can manually add this channel in game)
+* Cerulean City & Goldenrod `#Map` - These are economical trade hubs, with lots
+  of people willing to provide information.
 * Or, try `#general` (or `#general-{language}` for your appropriate language)

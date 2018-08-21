@@ -43,6 +43,7 @@ discord server.
 ### Common Requested Locations
 
 * [Eevee](/pokemon/eevee)
+* [Gible](/pokemon/gible)
 * [Hitmonlee & Hitmonchan](/pokemon/dojo)
 * [Lapras](/pokemon/lapras)
 * [Magnezone](/pokemon/magnezone)

@@ -1,7 +1,9 @@
 ---
 permalink: /guides/bosses
 image: /img/logo.png
-description: There are numerous Bosses present in the game as of now.
+description: >
+  Bosses are uncatchable legendaries in the game.
+  There are numerous Bosses present in the game as of now.
 redirect_from:
   - /pokemon/mewtwo
   - /pokemon/ho-oh
@@ -12,6 +14,8 @@ redirect_from:
 ---
 
 # Daily Bosses
+
+> Bosses are uncatchable legendaries in the game.
 
 There are numerous Bosses present in the game as of now. They start off at a
 high level, and each time you defeat them, their next encounter will have them

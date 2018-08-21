@@ -1,7 +1,7 @@
 ---
 permalink: /items/fishing-rods
 
-logo: /img/logo.png
+author: support
 title: Fishing Rods
 description: Depending on your region, you can acquire multiple fishing rods.
 ---

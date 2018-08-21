@@ -114,6 +114,7 @@ discord server.
 
 * [Cerulean City](/locations/cerulean-city)
 * [Cerulean Cave](/locations/cerulean-cave)
+* [Silph. Co](/locations/silph-co)
 * [Power Plant](/locations/power-plant)
 
 ### Johto

@@ -68,7 +68,7 @@ discord server.
 * [Bike Voucher](/items/bike-voucher)
 * [Coin Case](/items/coin-case)
 * [Electirizer](/items/electirizer)
-* [Gold Teeth](/items/gold-teth)
+* [Gold Teeth](/items/gold-teeth)
 * [Magmarizer](/items/magmarizer)
 * [Metal Coat](/items/metal-coat)
 * [Mushrooms](/items/mushrooms)

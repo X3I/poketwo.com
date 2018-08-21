@@ -1,5 +1,5 @@
 ---
-permalink: /pokemon/eevee
+permalink: /pokemon/gible
 image: /img/pokemon/gible.png
 description: >
   Gible is a dual-type Dragon/Ground type Pokémon.

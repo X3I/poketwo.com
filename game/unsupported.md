@@ -19,3 +19,7 @@ with, and there is no ETA for their activation.
 
 There will never be breeding or the XP Share. The reason for this is we have IV
 resets, and breeding doesn't lend itself well to an MMO game.
+
+## Razor Claw & Razor Scale
+
+These items are not currently in the game.

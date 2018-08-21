@@ -98,9 +98,13 @@ discord server.
 
 ## Locations
 
+### Kanto
 * [Cerulean City](/locations/cerulean-city)
 * [Cerulean Cave](/locations/cerulean-cave)
 * [Power Plant](/locations/power-plant)
+
+### Johto
+
 * [Embedded Tower](/locations/embedded-tower)
 
 ## Acronyms

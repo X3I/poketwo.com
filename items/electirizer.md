@@ -8,3 +8,5 @@ description: You can obtain an Electirizer while doing the Zapdos quest in the P
 # Electirizer
 
 You can obtain an Electirizer while doing the Zapdos quest in the Power Plant.
+
+![electirizer](/img/maps/zapdos.png)

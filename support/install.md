@@ -15,7 +15,6 @@ description: >
   game, and recreate the steps as needed.
 
   If nothing else works, check for more help in the Official PokéOne Discord, in the #helpdesk-client and #support-client channels.
-
 ---
 
 ## Launcher & Game Issues

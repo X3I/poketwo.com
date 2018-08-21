@@ -18,6 +18,11 @@ The Unofficial FAQ for the PokeOne Game
 * [Move Tutors](/guides/move-tutors)
 * [Regions](/guides/regions)
 
+## Game Features
+
+* [Controls](/game/controls)
+* [Time](/game/time)
+
 ## Moves
 
 * [Cut](/moves/cut)

@@ -15,7 +15,7 @@
         appendString += '  <h4><a href="' + item.url + '">' + item.title + '</a></h4>';
         appendString += '  <p class="search-result-url">';
         appendString += '    <a href="' + item.url + '" class="text-muted">' + item.url + '</a>';
-        appendString += '    <a href="#" data-clipboard-text="' + item.url + '"><i class="fa fa-clipboard"></i></a>';
+        appendString += '    <a href="#" class="clip" data-clipboard-text="' + item.url + '"><i class="fa fa-clipboard"></i></a>';
         appendString += '  </p>';
         appendString += '  <p class="search-result-excerpt">' + item.content.substring(0, 150) + '</p>';
         appendString += '</li>';
@@ -78,5 +78,7 @@
 
   var query = getQueryVariable('q');
   performSearch(query);
+
+  var clipboard = new ClipboardJS('.clip');
 
 })();

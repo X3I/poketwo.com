@@ -21,8 +21,8 @@ The legendary birds:
 
 ## Johto
 
-* Entei - Found on Route 45
-* Raikou - Found in the Dark Cave
+* Entei - Found in the Dark Cave
+* Raikou - Found on Route 45
 * Suicune - Found via a quest that starts in Cianwood
 
 ## Stats

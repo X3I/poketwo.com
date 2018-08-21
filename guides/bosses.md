@@ -36,11 +36,20 @@ Found at the top of Mt. Silver, unlocked after the completion of either Elite 4s
 
 ### Ho-Oh
 
-Found at the top of the Bell Tower, unlocked by having the Rainbow Wing (Story Quest reward) and the Clear Bell (Kimono Girl Quest reward), along with beating the 8 Johto gyms, this Boss Pokémon starts off at level 70, with its moveset consisting of Fire Blast, Sunny Day, Extrasensory and Sacred Fire. Beating the Elite 4 is not needed to access this boss!
+Found at the top of the Bell Tower, unlocked by having the Rainbow Wing (Story Quest reward) and the Clear Bell (Kimono Girl Quest reward), along with beating the 8 Johto gyms, this Boss Pokémon starts off at level 70, with its moveset consisting of Fire Blast, Sunny Day, Extrasensory and Sacred Fire.
+
+__Beating the Elite 4 is not needed to access this boss!__
 
 ### Lugia
 
-Found at the depths of the Whirl Islands, Lugia, the Boss Pokémon, is unlocked by having the Silver Wing and the Tidal Bell (reward from the Bell Quest, by melting the crystal with a Fire Pokémon in the Whirl Islands), along with beating the 8 Johto gyms, this Boss Pokémon starts off at level 70, with its moveset consisting of Hydro Pump, Rain Dance, Extrasensory and Aeroblast. Beating the Elite 4 is not needed to access this boss!
+Found at the depths of the [Whirl Islands](/locations/whirl-islands), Lugia, the
+Boss Pokémon, is unlocked by having the [Silver Wing](/items/silver-wing) and
+the Tidal Bell (reward from the Bell Quest, by melting the crystal with a Fire
+Pokémon in the Whirl Islands), along with beating the 8 Johto gyms, this Boss
+Pokémon starts off at level 70, with its moveset consisting of Hydro Pump, Rain
+Dance, Extrasensory and Aeroblast.
+
+__Beating the Elite 4 is not needed to access this boss!__
 
 ### Kyogre/Groudon/Rayquaza
 

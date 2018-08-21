@@ -1,6 +1,5 @@
 ---
 permalink: /support/economy
-
 image: /img/logo.png
 description: >
   The #community-support channel is not the correct place for economical questions.

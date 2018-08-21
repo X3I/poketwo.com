@@ -76,6 +76,10 @@ image: /img/logo.png
 * [Name Colors](/ivs/colors)
 * [Resetting](/ivs/resetting)
 
+## Natures
+
+* [Name Colors](/nature/colors)
+
 ## Locations
 
 * [Power Plant](/locations/power-plant)

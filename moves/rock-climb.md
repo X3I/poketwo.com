@@ -1,5 +1,5 @@
 ---
-permalink: /moves/rock-smash
+permalink: /moves/rock-climb
 
 image: /img/logo.png
 description: >

@@ -16,8 +16,6 @@ want to buy them!).
 Items such as Nuggets and Stardust can be sold at Purple Tent locations for
 ₽1,000. There is a purple tent in every region:
 
-![purple tents](/img/maps/purple-tents.png)
-
 ### Kanto
 
 * Lavendar Town
@@ -27,3 +25,4 @@ Items such as Nuggets and Stardust can be sold at Purple Tent locations for
 
 * Goldenrod City
 
+![purple tents](/img/maps/purple-tents.png)

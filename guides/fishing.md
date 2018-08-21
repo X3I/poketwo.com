@@ -2,7 +2,6 @@
 permalink: /guides/fishing
 
 image: /img/logo.png
-title: Fishing Rods
 description: Fishing is a way to catch Pokémon in the water. In fact, some Pokémon can only be caught by using a Fishing Rod.
 ---
 

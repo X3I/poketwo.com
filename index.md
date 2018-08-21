@@ -56,6 +56,11 @@ The Unofficial FAQ for the PokeOne Game
 
 * [HA - Hidden Ability](/acronyms/ha)
 
+## TM Locations
+
+* [TM 29](/tm/29)
+* [TM 36](/tm/36)
+
 ## Support Guides
 
 * [Installation Issues](/support/install)

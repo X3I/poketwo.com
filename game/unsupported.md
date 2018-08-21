@@ -18,4 +18,4 @@ with, and there is no ETA for their activation.
 ## Breeding and XP Share
 
 There will never be breeding or the XP Share. The reason for this is we have IV
-resets, and it doesn't lend itself well to an MMO game.
+resets, and breeding doesn't lend itself well to an MMO game.

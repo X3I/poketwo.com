@@ -51,6 +51,10 @@ The Unofficial FAQ for the PokeOne Game
 * [Name Colors](/ivs/colors)
 * [Resetting](/ivs/resetting)
 
+## Acronyms
+
+* [HA - Hidden Ability](/acronyms/ha)
+
 ## Support Guides
 
 * [Installation Issues](/support/install)

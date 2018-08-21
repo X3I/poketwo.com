@@ -25,7 +25,7 @@ description: >
 
 If you are experiencing login queue issues, registration problems, a black
 screen when you log in, the inability to use HMs, inability to interact with
-anything, missing items, buffs or pokemon, please check #announcements for the
+anything, missing items, buffs or pokemon, please check `#announcements` for the
 latest information
 
 > The servers are currently under extreme load.

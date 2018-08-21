@@ -7,9 +7,9 @@ description: >
   Gible can be found in the Johto Safari Wetlands.
 ---
 
-![gible](/img/pokemon/gible.png)
-
 # Gible
+
+![gible](/img/pokemon/gible.png)
 
 Gible is a dual-type Dragon/Ground type Pokémon.
 

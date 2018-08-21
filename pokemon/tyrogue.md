@@ -4,9 +4,9 @@ image: /img/pokemon/tyrogue.png
 description: Tyrogue can be found in Mt. Mortar.
 ---
 
-![tyrogue](/img/pokemon/tyrogue.png)
-
 # Tyrogue
+
+![tyrogue](/img/pokemon/tyrogue.png)
 
 Tyrogue is a Fighting-type baby Pokémon.
 

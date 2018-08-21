@@ -4,9 +4,9 @@ image: /img/pokemon/magnezone.png
 description: Magneton can evolve into Magnezone by leveling while in the Power Plant, only in Kanto.
 ---
 
-![magnezone](/img/pokemon/magnezone.png)
-
 # Magnezone
+
+![magnezone](/img/pokemon/magnezone.png)
 
 Magnezone is a dual-type Electric/Steel Pokémon.
 

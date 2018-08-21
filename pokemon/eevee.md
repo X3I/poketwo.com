@@ -6,9 +6,9 @@ description: >
   Eevee can only be obtained twice by a single player; once per region. They are gifted to you at two locations.
 ---
 
-![eevee](/img/pokemon/eevee.png)
-
 # Eevee
+
+![eevee](/img/pokemon/eevee.png)
 
 Eevee is a Normal-type Pokémon.
 

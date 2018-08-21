@@ -19,7 +19,7 @@ Gives you a small amount of money from Wild Encounters (including from Running)
 
 ### Money+
 
-Gives you more Money from Bounties and [Bosses](/guide/bosses).
+Gives you more Money from Bounties and [Bosses](/guides/bosses).
 
 ### Shiny+
 

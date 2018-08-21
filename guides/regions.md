@@ -9,8 +9,8 @@ description: Regional information for the PokeOne game.
 
 ## Available Regions
 
-* Kanto - http://bit.ly/p1kanto
-* Johto - http://bit.ly/p1johto
+* Kanto - ([Map](http://bit.ly/p1kanto))
+* Johto - ([Map](http://bit.ly/p1johto))
 
 ## Announced Regions
 

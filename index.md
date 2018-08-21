@@ -35,6 +35,11 @@
 * [Silver Wing](/items/silver-wing)
 * [Stones](/items/stones)
 
+## IVs
+
+* [Name Colors](/ivs/colors)
+* [Resetting](/ivs/resetting)
+
 ## Support Guides
 
 * [Installation Issues](/support/install)

@@ -1,6 +1,6 @@
 ---
 permalink: /locations/silph-co
-image: /img/logo.png
+image: /img/locations/silph-co.png
 description: >
   The Silph Company, or simply Silph Co., is a company headquartered in Saffron
   City. They are the manufacturers of many tools, including the Silph Scope—a
@@ -10,6 +10,8 @@ description: >
 ---
 
 # Silph Co.
+
+![silph co](/img/locations/silph-co.png)
 
 The Silph Company, or simply Silph Co., is a company headquartered in Saffron
 City. They are the manufacturers of many tools, including the Silph Scope—a
@@ -22,6 +24,10 @@ Team Rocket Grunt is initially guarding the front door, preventing entrance into
 the building. After the player has saved Mr. Silph from Team Rocket at the
 Pokémon Tower in Lavender Town, the guard will have disappeared, allowing the
 player to enter the building.
+
+## Location
+
+![saffron-city](/img/locations/saffron-city.png)
 
 ## Guide
 

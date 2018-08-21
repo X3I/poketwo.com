@@ -40,6 +40,8 @@ various types of Fishing Rods.
 - __Good Rod__: Fuchsia City, talk to the guy in the house with a pond behind it
 - __Super Rod__: Route 12, found in the House Pokémon Center and talk to the girl. Then read the bookcases, and go back to the old man on the dock.
 
+![kanto fishing](/img/maps/fishing-kanto.png)
+
 #### Johto
 
 - __Super Rod__: Lake of Rage

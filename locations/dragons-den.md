@@ -1,12 +1,18 @@
 ---
 permalink: /locations/dragons-den
-image: /img/logo.png
+image: /img/locations/dragons-den.png
 description: The Dragon's Den is a location in Blackthorn City in the Johto region.
 ---
 
 # Dragon's Den
 
+![dragons den](/img/locations/dragons-den.png)
+
 The Dragon's Den is a location in Blackthorn City in the Johto region.
+
+## Location
+
+![dragons den location](/img/maps/dragons-den.png)
 
 ## Dragon's Master Quest
 

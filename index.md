@@ -98,6 +98,7 @@ discord server.
 
 ## Locations
 
+* [Cerulean Cave](/locations/cerulean-cave)
 * [Power Plant](/locations/power-plant)
 * [Embedded Tower](/locations/embedded-tower)
 

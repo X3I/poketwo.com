@@ -3,8 +3,9 @@ title: PokeTwo
 description: The Unofficial FAQ for the PokéOne Game
 
 # HTTPS Urls
-baseurl: https://pokeone.com
-enforce_ssl: pokeone.com
+# url settings
+baseurl: ""                # the subpath of your site, e.g. /blog
+url: "https://pokeone.com" # baseline & protocol of the site, without trailing slash
 
 google_analytics: UA-48212212-8
 

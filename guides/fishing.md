@@ -21,7 +21,7 @@ differing types of Pokémon.
 * __Old Rod__
   The Old Rod is usually the first rod to be obtained by the player and is also
   the weakest of the three as it will only allow the player to fish for
-  Magikarps and other common water type Pokemon.
+  Magikarps and other common water type Pokémon.
 * __Good Rod__
   The Good Rod is the second rod to be obtained by the player, and opens up more
   types of Pokémon able to be caught.

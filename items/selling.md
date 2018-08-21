@@ -21,7 +21,7 @@ Items such as Nuggets and Stardust can be sold at Purple Tent locations for
 ### Kanto
 
 * Lavendar Town
-* Viridian City - Pokemon Fan Club
+* Viridian City - Pokémon Fan Club
 
 ## Johto
 

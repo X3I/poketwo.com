@@ -1,5 +1,5 @@
 ---
-permalink: /pokemon/ralts
+permalink: /Pokémon/ralts
 image: /img/logo.png
 description: Ralts can be found on Route 34 by Headbutting trees. Here is a map of trees you can headbutt.
 ---

@@ -2,12 +2,12 @@
 permalink: /guides/move-tutors
 
 image: /img/logo.png
-description: Various move tutors are available throughout the regions. Additionally, there are Egg Move tutors that can teach your pokemon moves that it would only be able to obtain through breeding. These exist, because breeding does not (and will not) exist, but the moves should still be attainable.
+description: Various move tutors are available throughout the regions. Additionally, there are Egg Move tutors that can teach your Pokémon moves that it would only be able to obtain through breeding. These exist, because breeding does not (and will not) exist, but the moves should still be attainable.
 ---
 
 # Move Tutors
 
-Various move tutors are available throughout the regions. Additionally, there are Egg Move tutors that can teach your pokemon moves that it would only be able to obtain through breeding. These exist, because breeding does not (and will not) exist, but the moves should still be attainable.
+Various move tutors are available throughout the regions. Additionally, there are Egg Move tutors that can teach your Pokémon moves that it would only be able to obtain through breeding. These exist, because breeding does not (and will not) exist, but the moves should still be attainable.
 
 ## Kanto
 

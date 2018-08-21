@@ -12,12 +12,12 @@ description: A base guide for the in-game currencies and generating income.
 Money is earned through winning NPC encounters (Trainers, Gym Leaders, the Elite
 4 + Champion, etc.).
 
-Additionally, there is an in-game trading economy based around selling Pokemon,
+Additionally, there is an in-game trading economy based around selling Pokémon,
 Items, Buffs, Services, almost anything! You have the option of participating in
 this to earn PK.
 
 Lastly, there are in-game buffs that allow you to increase the amount of Money
-you earn per encounter, or gives you small amounts for Wild Pokemon encounters.
+you earn per encounter, or gives you small amounts for Wild Pokémon encounters.
 
 > __Note:__ You can make secondary characters (called alts) and if you have
 > multiple computers, trade that money to yourself, or use it for economical

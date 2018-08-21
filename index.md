@@ -15,6 +15,7 @@ The Unofficial FAQ for the PokeOne Game
 * [Guilds](/guides/guilds)
 * [Legendaries](/guides/legendaries)
 * [Leveling](/guides/leveling)
+* [Regions](/guides/regions)
 
 ## Moves
 

@@ -20,6 +20,8 @@ For the time being, only the legendary trios for Kanto and Johto are obtainable.
 
 The legendary birds:
 
+> __Note:__ Only Zapdos is catchable before completing the Elite 4.
+
 * Moltres - Found in Victory Road ([Map](/img/maps/moltres.png))
 * Zapdos - Found in the Power Plant ([Map](/img/maps/zapdos.png))
 * Articuno - Found in Seafoam Islands.

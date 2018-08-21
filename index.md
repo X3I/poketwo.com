@@ -21,6 +21,10 @@
 
 * [Happiness](/stats/happiness)
 
+## Items
+
+* [Mushrooms](/items/mushrooms)
+
 ## Support Guides
 
 * [Installation Issues](/support/install)

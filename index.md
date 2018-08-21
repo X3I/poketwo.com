@@ -77,6 +77,7 @@ discord server.
 * [Heart Scale](/items/heart-scale)
 * [Gold Teeth](/items/gold-teeth)
 * [Magmarizer](/items/magmarizer)
+* [Masterball](/items/masterball)
 * [Metal Coat](/items/metal-coat)
 * [Mushrooms](/items/mushrooms)
 * [Protector](/items/protector)

@@ -2,3 +2,19 @@ theme: jekyll-theme-primer
 title: PokeTwo
 description: The Unofficial FAQ for the PokeOne Game
 google_analytics: UA-48212212-8
+plugins:
+  # default plugins
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+
+  # custom plugins
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap

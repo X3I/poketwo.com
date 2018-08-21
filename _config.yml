@@ -2,10 +2,9 @@ theme: jekyll-theme-primer
 title: PokeTwo
 description: The Unofficial FAQ for the PokéOne Game
 
-# HTTPS Urls
 # url settings
-# baseurl: ""                # the subpath of your site, e.g. /blog
-# url: "https://pokeone.com" # baseline & protocol of the site, without trailing slash
+baseurl: ""                # the subpath of your site, e.g. /blog
+url: "https://pokeone.com" # baseline & protocol of the site, without trailing slash
 
 google_analytics: UA-48212212-8
 

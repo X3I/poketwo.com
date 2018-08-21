@@ -1,13 +1,14 @@
 ---
 permalink: /pokemon/ralts
 image: /img/logo.png
-description: Ralts can be found on Route 34 by Headbutting trees. Here is a map of trees you can headbutt.
+description: Ralts can be found on Route 34 by Headbutting trees. Here is a map of trees you can Headbutt.
 ---
 
 # Ralts
 
-Ralts can be found on Route 34 by Headbutting trees. Here is a map of trees you can headbutt.
+Ralts can be found on Route 34 by [Headbutt](/moves/headbutt)ing trees. Here is
+a map of trees you can [Headbutt](/moves/headbutt) for Ralts.
 
 ![r34 headbutts](https://i.imgur.com/U9SKyOD.jpg)
 
-> __Note:__ Headbutt will reset once daily, during the 10am GMT reset.
+> __Note:__ Tree's that have been Headbutt will reset once every day, at 10am GST/UTC.

@@ -1,21 +1,27 @@
 ---
 permalink: /pokemon/eevee
 image: /img/pokemon/eevee.png
-description: Eevee can only be obtained twice by a single player; once per region. They are gifted to you at two locations.
+description: >
+  Eevee is a Normal-type Pokémon.
+  Eevee can only be obtained twice by a single player; once per region. They are gifted to you at two locations.
 ---
 
 ![eevee](/img/pokemon/eevee.png)
 
 # Eevee
 
+Eevee is a Normal-type Pokémon.
+
+## Obtaining
+
 Eevee can only be obtained twice by a single player; once per region. They are
 gifted to you at two locations.
 
-## Kanto
+### Kanto
 
 * Celedon City - Hidden Back Entrance
 
-## Johto
+### Johto
 
 * Ecruteak City Pokémon Center - Top Floor
 

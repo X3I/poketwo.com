@@ -3,15 +3,13 @@ permalink: /guides/fishing
 
 image: /img/logo.png
 title: Fishing Rods
-description: Depending on your
-  Depending on your region, there are multiple locations you can acquire the
-  various types of Fishing Rods.
+description: Fishing is a way to catch Pokémon in the water. In fact, some Pokémon can only be caught by using a Fishing Rod.
 ---
 
 # Fishing
 
 Fishing is a way to catch Pokémon in the water. In fact, some Pokémon can only
-be caught by using a fishing rod.
+be caught by using a Fishing Rod.
 
 ## Fishing Rods
 

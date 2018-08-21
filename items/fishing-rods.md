@@ -1,3 +1,7 @@
+---
+permalink: /items/fishing-rods
+---
+
 # Fishing Rods
 
 These are the locations that you can acquire Fishing Rods:

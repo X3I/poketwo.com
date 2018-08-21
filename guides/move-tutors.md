@@ -9,6 +9,10 @@ description: Various move tutors are available throughout the regions. Additiona
 
 Various move tutors are available throughout the regions. Additionally, there are Egg Move tutors that can teach your Pokémon moves that it would only be able to obtain through breeding. These exist, because breeding does not (and will not) exist, but the moves should still be attainable.
 
+> __Warning:__ You must delete HM moves from a Move Deleter before attempting to
+> use a Move Reminder, otherwise you will lose your
+> [Heart Scale](/items/heart-scale) and will be told you cannot forget the move.
+
 ## Kanto
 
 * Viridian (Needs HM Cut) - Dream Eater

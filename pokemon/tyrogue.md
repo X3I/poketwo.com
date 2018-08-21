@@ -4,7 +4,7 @@ image: /img/pokemon/tyrogue.png
 description: Tyrogue can be found in Mt. Mortar.
 ---
 
-![tyrogue](img/pokemon/tyrogue.png)
+![tyrogue](/img/pokemon/tyrogue.png)
 
 # Tyrogue
 

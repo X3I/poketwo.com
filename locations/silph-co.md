@@ -1,7 +1,12 @@
 ---
 permalink: /locations/silph-co
 image: /img/logo.png
-description: Take the route West to Cianwood City, then go to the Cliff Cave B2F. Then Surf Left, and Rock Climb on a climbing spot.
+description: >
+  The Silph Company, or simply Silph Co., is a company headquartered in Saffron
+  City. They are the manufacturers of many tools, including the Silph Scope—a
+  device that allows the user to view spectral entities—as well as home
+  appliances. They are also speculated to run the Poké Marts in Kanto as well as
+  in Johto and the Sevii Islands.
 ---
 
 # Silph Co.

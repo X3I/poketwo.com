@@ -3,7 +3,6 @@ title: PokeTwo
 description: The Unofficial FAQ for the PokéOne Game
 
 # HTTPS Urls
-url: https://pokeone.com
 baseurl: https://pokeone.com
 enforce_ssl: pokeone.com
 

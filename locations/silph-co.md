@@ -27,7 +27,7 @@ player to enter the building.
 
 ## Location
 
-![saffron-city](/img/locations/saffron-city.png)
+![saffron-city](/img/maps/saffron-city.png)
 
 ## Guide
 

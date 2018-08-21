@@ -24,7 +24,9 @@ you Trainer EXP and money.
 
 ### Mewtwo
 
-Found in the depths of the Cerulean Cave, unlocked after the completion of the Kanto Elite 4, this Boss Pokémon starts off at level 75, with its moveset consisting of Aura Sphere, Psychic, Barrier and Recover.
+Found in the depths of the [Cerulean Cave](/locations/cerulean-cave), unlocked
+after the completion of the Kanto Elite 4, this Boss Pokémon starts off at level
+75, with its moveset consisting of Aura Sphere, Psychic, Barrier and Recover.
 
 ### Ash
 

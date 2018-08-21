@@ -97,6 +97,11 @@ image: /img/logo.png
 * [TM 29](/tm/29)
 * [TM 36](/tm/36)
 
+## Quests
+
+* [Serena's Quest](/quests/serenas-quest)
+* [Kimono Girls](/quests/kimono-girls)
+
 ## Support Guides
 
 * [Installation Issues](/support/install)

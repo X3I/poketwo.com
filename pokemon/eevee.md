@@ -9,6 +9,14 @@ description: Eevee can only be obtained twice by a single player; once per regio
 Eevee can only be obtained twice by a single player; once per region. They are
 gifted to you at two locations.
 
+## Kanto
+
+* Celedon City - Hidden Back Entrance
+
+## Johto
+
+* Ecruteak City Pokémon Center - Top Floor
+
 ![eevee-locations](https://i.imgur.com/7WPAS5K.png)
 
 There are no plans for implementing Eevee as a Wild encounter for now.

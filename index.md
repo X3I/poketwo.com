@@ -105,6 +105,7 @@ discord server.
 
 ## Natures
 
+* [Pokémon Natures](/nature/natures)
 * [Name Colors](/nature/colors)
 
 ## Locations

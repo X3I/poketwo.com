@@ -41,14 +41,16 @@ window.store = [
   ,
   {% for page in site.pages %}
    {
-     {% if page.title != nil %}
-        "type"     : "page",
-        "title"    : "{{ page.title | escape }}",
-        "category" : "{{ page.category }}",
-        "tags"     : "{{ page.tags | join: ', ' }}",
-        "url"      : "{{ page.url | absolute_url }}",
-        "date"     : "{{ page.date }}",
-        "content"  : {{ page.content | strip_html | strip_newlines | default: "" | jsonify }}
+     {% if page.title != "PokeTwo - The Unofficial FAQ for PokéOne" %}
+      {% if page.title != nil %}
+          "type"     : "page",
+          "title"    : "{{ page.title | escape }}",
+          "category" : "{{ page.category }}",
+          "tags"     : "{{ page.tags | join: ', ' }}",
+          "url"      : "{{ page.url | absolute_url }}",
+          "date"     : "{{ page.date }}",
+          "content"  : {{ page.content | strip_html | strip_newlines | default: "" | jsonify }}
+      {% endif %}
      {% endif %}
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}

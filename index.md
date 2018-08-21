@@ -25,10 +25,13 @@
 
 * [Bike Voucher](/items/bike-voucher)
 * [Coin Case](/items/coin-case)
+* [Electirizer](/items/electirizer)
 * [Gold Teeth](/items/gold-teth)
 * [Magmarizer](/items/magmarizer)
+* [Metal Coat](/items/metal-coat)
 * [Mushrooms](/items/mushrooms)
 * [Protector](/items/protector)
+* [Silver Wing](/items/silver-wing)
 
 ## Support Guides
 

@@ -13,7 +13,9 @@ redirect_from:
 
 # Starters
 
-Currently, starters are non-tradable, and not found in the wild, You will however get a chance to get a new region exclusive starter when you start a new region.
+Currently, starters are non-tradable, and not found in the wild, You will
+however get a chance to get a new region exclusive starter when you start a new
+[Region](/guides/regions).
 
 ## Kanto
 

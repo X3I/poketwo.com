@@ -32,6 +32,8 @@ The legendary birds:
 
 ## Johto
 
+You gain access to the Legendary Dogs once you've beaten the Elite 4 in Johto.
+
 * Entei - Found in the Dark Cave
 * Raikou - Found on Route 45
 * Suicune - Found via a quest that starts in Cianwood

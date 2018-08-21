@@ -13,8 +13,8 @@ For the time being, only the legendary trios for Kanto and Johto are obtainable.
 
 The legendary birds:
 
-* Moltres - Found in Victory Road ([Map](/img/moltres.png))
-* Zapdos - Found in the Power Plant ([Map](/img/zapdos.png))
+* Moltres - Found in Victory Road ([Map](/img/maps/moltres.png))
+* Zapdos - Found in the Power Plant ([Map](/img/maps/zapdos.png))
 * Articuno - Found in Ice Path.
 
   To find Articuno, enter from the South Entrance, Rock Smash go up the stairs and left. Then up the ladder across the ice and to the ladder on the right top. Then down and left to the next ladder and poof you are there

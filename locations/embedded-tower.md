@@ -1,5 +1,5 @@
 ---
-permalink: /locations/power-plant
+permalink: /locations/embedded-tower
 image: /img/logo.png
 description: Take the route West to Cianwood City, then go to the Cliff Cave B2F. Then Surf Left, and Rock Climb on a climbing spot.
 ---

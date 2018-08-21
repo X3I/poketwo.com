@@ -46,6 +46,7 @@ The Unofficial FAQ for the PokeOne Game
 * [Protector](/items/protector)
 * [Silver Wing](/items/silver-wing)
 * [Stones](/items/stones)
+* [Hidden Items](/items/hidden)
 
 ## IVs
 

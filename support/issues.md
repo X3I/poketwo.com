@@ -1,6 +1,5 @@
 ---
-permalink: /support/install
-
+permalink: /support/issues
 image: /img/logo.png
 description: >
   If you have __any__ problems with launching or playing the game, do these in the

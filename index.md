@@ -119,7 +119,7 @@ discord server.
 
 ## Support Guides
 
-* [Installation Issues](/support/install)
+* [Launcher & Game Issues](/support/issues)
 * [System Requirements](/support/requirements)
 * [Economical Questions](/support/economy)
 * [Peak Hours Guide](/support/peak-hours)

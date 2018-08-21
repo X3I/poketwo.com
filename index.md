@@ -4,6 +4,10 @@ image: /img/logo.png
 
 # Table of Contents
 
+## Download
+
+* [Download Mirror](https://cdn.poketwo.com/installer.exe)
+
 ## Game Guides
 
 * [Bosses](/guides/bosses)

@@ -74,6 +74,7 @@ discord server.
 * [Bike Voucher](/items/bike-voucher)
 * [Coin Case](/items/coin-case)
 * [Electirizer](/items/electirizer)
+* [Heart Scale](/items/heart-scale)
 * [Gold Teeth](/items/gold-teeth)
 * [Magmarizer](/items/magmarizer)
 * [Metal Coat](/items/metal-coat)

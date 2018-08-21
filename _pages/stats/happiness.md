@@ -3,16 +3,16 @@ permalink: /stats/happiness
 
 image: /img/logo.png
 description: >
-  Happiness (which also replaces Friendliness) can be leveled up in a number of
-  ways. While also increasing happiness make sure not to let your Pokémon die,
-  or it will lose happiness.
+  Happiness (which also replaces Friendliness and Affection) can be leveled up
+  in a number of ways. While also increasing happiness make sure not to let your
+  Pokémon die, or it will lose happiness.
 ---
 
 # Happiness (Friendliness)
 
-Happiness (which also replaces Friendliness) can be leveled up in a number of
-ways. While also increasing happiness make sure not to let your Pokémon die, or
-it will lose happiness.
+Happiness (which also replaces Friendliness and Affection) can be leveled up in
+a number of ways. While also increasing happiness make sure not to let your
+Pokémon die, or it will lose happiness.
 
 ## Ways to increase Happiness
 

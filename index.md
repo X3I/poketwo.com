@@ -47,6 +47,7 @@ discord server.
 ## Pokémon
 
 * [Starters](/pokemon/starters)
+* [List of Obtainable Pokemon and Evolution Guide](/pokemon/list)
 
 ### Common Requested Locations
 

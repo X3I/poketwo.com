@@ -13,7 +13,7 @@ title: Search
     </div>
   </form>
 
-  <p><span id="results-count"></span> results were found.</p>
+  <p><span id="results-count">0</span> results were found.</p>
 
 </header>
 

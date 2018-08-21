@@ -1,3 +1,10 @@
+# Configuration settings that affect the entire site. These values are generally
+# expected to be set up once, and rarely changed after that.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when using
+# `jekyll serve`. If you make changes to this file, you will need to restart the
+# local server.
+
 theme: jekyll-theme-primer
 title: PokeTwo
 description: The Unofficial FAQ for the PokéOne Game

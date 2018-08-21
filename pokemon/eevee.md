@@ -35,4 +35,4 @@ All eeveelutions exist in the game, __except__ Glaceon and Leafeon (for now).
 
 ### Hidden Abilities
 
-Eeveelutions can obtain their HA with Eevee having either the ‘Run Away' or ‘Adaptability' abilities.
+Eeveelutions can obtain their HA with Eevee having the `Anticipation` ability.

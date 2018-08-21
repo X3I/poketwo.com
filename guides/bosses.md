@@ -31,7 +31,7 @@ Found at the top of the Bell Tower, unlocked by having the Rainbow Wing (Story Q
 
 ### Lugia
 
-Found at the depths of the Whirl Islands, Lugia, the Boss Pokémon, is unlocked by having the Silver Wing (x quest reward, please replace placeholder text when verified -Ideal) and the Tidal Bell (reward from the Bell Quest, by melting the crystal with a Fire Pokémon in the Whirl Islands), along with beating the 8 Johto gyms, this Boss Pokémon starts off at level 70, with its moveset consisting of Hydro Pump, Rain Dance, Extrasensory and Aeroblast. Beating the Elite 4 is not needed to access this boss!
+Found at the depths of the Whirl Islands, Lugia, the Boss Pokémon, is unlocked by having the Silver Wing and the Tidal Bell (reward from the Bell Quest, by melting the crystal with a Fire Pokémon in the Whirl Islands), along with beating the 8 Johto gyms, this Boss Pokémon starts off at level 70, with its moveset consisting of Hydro Pump, Rain Dance, Extrasensory and Aeroblast. Beating the Elite 4 is not needed to access this boss!
 
 ### Kyogre/Groudon/Rayquaza
 

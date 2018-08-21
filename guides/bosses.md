@@ -22,7 +22,7 @@ Found in the depths of the Cerulean Cave, unlocked after the completion of the K
 
 ### Ash
 
-Found at the top of Mt. Silver, unlocked after the completion of either Elite 4s, Ash presents a team of 6 extremely high levelled Pokémon in a very balanced team composition, being the final challenge for any Pokémon Trainer in the game. His Pokémon and their movesets, along with starting levels, are found here: https://idealsu.s-ul.eu/ngJdHw8p.
+Found at the top of Mt. Silver, unlocked after the completion of either Elite 4s, Ash presents a team of 6 extremely high levelled Pokémon in a very balanced team composition, being the final challenge for any Pokémon Trainer in the game. His Pokémon and their movesets, along with starting levels, are found [here](https://idealsu.s-ul.eu/ngJdHw8p).
 
 ## Johto Bosses
 

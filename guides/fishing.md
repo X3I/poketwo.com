@@ -1,5 +1,5 @@
 ---
-permalink: /items/fishing-rods
+permalink: /guides/fishing
 
 image: /img/logo.png
 title: Fishing Rods

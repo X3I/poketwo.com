@@ -12,6 +12,7 @@ The Unofficial FAQ for the PokeOne Game
 * [Bosses](/guides/bosses)
 * [Currency](/guides/currency)
 * [Fishing](/guides/fishing)
+* [Guilds](/guides/guilds)
 * [Legendaries](/guides/legendaries)
 * [Leveling](/guides/leveling)
 

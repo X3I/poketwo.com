@@ -17,6 +17,10 @@
 * [Rock Climb](/moves/rock-climb)
 * [Earthquake](/moves/earthquake)
 
+## Stats
+
+* [Happiness](/stats/happiness)
+
 ## Support Guides
 
 * [Installation Issues](/support/install)

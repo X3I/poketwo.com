@@ -1,6 +1,5 @@
 ---
 permalink: /guides/bosses
-
 image: /img/logo.png
 description: There are numerous Bosses present in the game as of now.
 ---

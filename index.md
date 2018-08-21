@@ -66,6 +66,11 @@ The Unofficial FAQ for the PokeOne Game
 * [Name Colors](/ivs/colors)
 * [Resetting](/ivs/resetting)
 
+## Locations
+
+* [Power Plant](/locations/power-plant)
+* [Embedded Tower](/locations/embedded-tower)
+
 ## Acronyms
 
 ### Specific Acronyms

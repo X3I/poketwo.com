@@ -29,6 +29,7 @@ discord server.
 ## Game Guides
 
 * [Bosses](/guides/bosses)
+* [Buffs](/guides/buffs)
 * [Currency](/guides/currency)
 * [Fishing](/guides/fishing)
 * [Guilds](/guides/guilds)

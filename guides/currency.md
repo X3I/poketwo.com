@@ -1,6 +1,5 @@
 ---
 permalink: /guides/currency
-
 image: /img/logo.png
 description: A base guide for the in-game currencies and generating income.
 ---

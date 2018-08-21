@@ -7,6 +7,8 @@ description: >
   Ralts can be found on Route 34 by Headbutting trees. Here is a map of trees you can Headbutt.
 ---
 
+![ralts](/img/pokemon/ralts.png)
+
 # Ralts
 
 Ralts is a dual-type Psychic/Fairy Pokémon.

@@ -1,6 +1,11 @@
 theme: jekyll-theme-primer
 title: PokeTwo
 description: The Unofficial FAQ for the PokéOne Game
+
+# HTTPS Urls
+url: https://pokeone.com
+enforce_ssl: pokeone.com
+
 google_analytics: UA-48212212-8
 
 plugins:

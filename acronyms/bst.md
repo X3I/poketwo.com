@@ -6,4 +6,4 @@ description: Waiting for Abolishment to write this
 
 # BST - Base Stat Total
 
-Waiting for Abolishment to write this
+> Waiting for Abolishment to write this

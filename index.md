@@ -11,8 +11,6 @@ discord server.
 
 # Table of Contents
 
-## Links
-
 * [Server Status](https://status.poketwo.com/)
 * [Download Mirror](https://cdn.poketwo.com/installer.exe)
 

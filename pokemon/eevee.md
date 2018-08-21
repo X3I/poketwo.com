@@ -1,5 +1,5 @@
 ---
-permalink: /Pokémon/eevee
+permalink: /pokemon/eevee
 image: /img/logo.png
 description: Eevee can only be obtained twice by a single player; once per region. They are gifted to you at two locations.
 ---

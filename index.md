@@ -33,16 +33,17 @@ discord server.
 
 ## Pokémon
 
-* [Starters](/Pokémon/starters)
+* [Starters](/pokemon/starters)
 
-### Special Locations
+### Common Requested Locations
 
-* [Eevee](/Pokémon/eevee)
-* [Hitmonlee & Hitmonchan](/Pokémon/dojo)
-* [Lapras](/Pokémon/lapras)
-* [Magnezone](/Pokémon/magnezone)
-* [Ralts](/Pokémon/ralts)
-* [Snorlax](/Pokémon/snorlax)
+* [Eevee](/pokemon/eevee)
+* [Hitmonlee & Hitmonchan](/pokemon/dojo)
+* [Lapras](/pokemon/lapras)
+* [Magnezone](/pokemon/magnezone)
+* [Ralts](/pokemon/ralts)
+* [Snorlax](/pokemon/snorlax)
+* [Tyrogue](/pokemon/tyrogue)
 
 ## Moves
 

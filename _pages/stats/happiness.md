@@ -8,7 +8,7 @@ description: >
   Pokémon die, or it will lose happiness.
 ---
 
-# Happiness (Friendliness)
+# Happiness (Friendliness, Affection)
 
 Happiness (which also replaces Friendliness and Affection) can be leveled up in
 a number of ways. While also increasing happiness make sure not to let your

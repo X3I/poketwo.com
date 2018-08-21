@@ -58,6 +58,7 @@ The Unofficial FAQ for the PokeOne Game
 
 * [Item Removers](/items/removers)
 * [Hidden Items](/items/hidden)
+* [Selling Items](/items/selling)
 
 ## IVs
 

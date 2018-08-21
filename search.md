@@ -1,6 +1,7 @@
 ---
 permalink: /search/
 title: Search
+description: Live search all the content on our FAQ
 ---
 
 <header class="my-5">

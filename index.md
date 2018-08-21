@@ -2,9 +2,10 @@
 
 ## Game Guides
 
+* [Bosses](/guides/bosses)
+* [Currency](/guides/currency)
 * [Fishing](/guides/fishing)
 * [Legendaries](/guides/legendaries)
-* [Bosses](/guides/bosses)
 * [Leveling](/guides/leveling)
 
 ## Moves

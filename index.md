@@ -22,6 +22,7 @@ The Unofficial FAQ for the PokeOne Game
 
 * [Controls](/game/controls)
 * [Time](/game/time)
+* [Unsupported Features](/game/unsupported)
 
 ## Moves
 

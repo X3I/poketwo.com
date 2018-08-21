@@ -56,5 +56,5 @@ Then:
 
 Walk south from here and you'll see a door with Jessie & James behind it.
 
-Beat them and talk to Mr Silph to finish the quest. He will give you a
+Beat them and talk to Mr. Silph to finish the quest. He will give you a
 [Masterball](/items/masterball).

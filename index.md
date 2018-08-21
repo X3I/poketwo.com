@@ -23,8 +23,12 @@
 
 ## Items
 
+* [Bike Voucher](/items/bike-voucher)
+* [Coin Case](/items/coin-case)
 * [Gold Teeth](/items/gold-teth)
+* [Magmarizer](/items/magmarizer)
 * [Mushrooms](/items/mushrooms)
+* [Protector](/items/protector)
 
 ## Support Guides
 

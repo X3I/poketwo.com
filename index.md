@@ -4,8 +4,9 @@ image: /img/logo.png
 
 # Table of Contents
 
-## Download
+## Links
 
+* [Server Status](https://status.poketwo.com/)
 * [Download Mirror](https://cdn.poketwo.com/installer.exe)
 
 ## Game Guides
@@ -116,3 +117,7 @@ image: /img/logo.png
 * [System Requirements](/support/requirements)
 * [Economical Questions](/support/economy)
 * [Peak Hours Guide](/support/peak-hours)
+
+## Other Useful Resources
+
+* [Unofficial Guide](https://docs.google.com/spreadsheets/d/1ptgBvTzxvzNisK1Sh7dW12IWEotlBpkpi-9TgEC3GuA/edit?usp=sharing)

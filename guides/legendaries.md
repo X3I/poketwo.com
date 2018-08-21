@@ -35,8 +35,8 @@ valuable.
 
 Each Legendary Pokémon can only be caught once, per account.
 
-If you kill a Legendary Pokémon during your encounter with them, an identical
-clone will respawn in 1 week (7 real-world days).
+If you kill a Legendary Pokémon during your encounter with them, a new spawn
+(with new, randomized values) will be available in 1 week (7 real-world days).
 
 ## Why can't I catch [insert legendary name here]?
 

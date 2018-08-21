@@ -27,3 +27,11 @@ In order to fully function, your system must provide at *least* the following:
 * Windows 7 SP1+
 * CPU with SSE2 instruction set support
 * Graphics card with DX11 (shader model 4.0) capabilities.
+
+### Disabling Touch Screen Interfaces
+
+If you have a Touch screen, you may not be able  be able to move the map with
+your mouse.
+
+To disable, go to Device Manager, then Human Interface Devices, HID-Compliant
+touch screen, and then disable it from the options menu.

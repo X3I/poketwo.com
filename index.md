@@ -5,6 +5,7 @@
 * [Fishing](/guides/fishing)
 * [Legendaries](/guides/legendaries)
 * [Bosses](/guides/bosses)
+* [Leveling](/guides/leveling)
 
 ## Moves
 

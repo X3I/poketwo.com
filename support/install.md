@@ -1,5 +1,5 @@
 ---
-permalink: /support/launcher
+permalink: /support/install
 
 image: /img/logo.png
 description: >

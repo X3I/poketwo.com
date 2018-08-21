@@ -2,12 +2,14 @@
 image: /img/logo.png
 ---
 
-# Table of Contents
+# PokeTwo - The Unofficial FAQ for PokeOne
 
 Please note that this guide is a living __work in progress__. If you find
 something that's wrong or missing from the guides, or would like to add a new
 guide, please feel free to leave it in the `#general-support` channel in our
 discord server.
+
+# Table of Contents
 
 ## Links
 

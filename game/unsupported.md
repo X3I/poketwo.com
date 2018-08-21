@@ -1,5 +1,5 @@
 ---
-permalink: /acronyms/unsupported
+permalink: /game/unsupported
 image: /img/logo.png
 description: Here are some common features that are asked about, and some descriptions as to them not existing in the game
 ---

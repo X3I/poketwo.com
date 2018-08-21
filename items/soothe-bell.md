@@ -9,7 +9,7 @@ description: >
 # Soothe Bell
 
 The Soothe Bell is a type of held item. It is an out-of-battle effect item that
-amplifies [Happiness (Friendship)](/items/happiness) increases for the holder.
+amplifies [Happiness (Friendship)](/stats/happiness) increases for the holder.
 
 ## Location
 

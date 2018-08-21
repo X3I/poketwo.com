@@ -1,3 +1,10 @@
+---
+permalink: /guides/regions
+
+image: /img/logo.png
+description: Regional information for the PokeOne game.
+---
+
 # Regions
 
 ## Available Regions

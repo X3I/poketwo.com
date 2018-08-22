@@ -13,6 +13,7 @@ description: >
   * Windows 7 SP1+
   * CPU with SSE2 instruction set support
   * Graphics card with DX11 (shader model 4.0) capabilities.
+  * 9GB HDD Space for PokeOne Installation
 ---
 
 ## System Requirements
@@ -27,6 +28,7 @@ In order to fully function, your system must provide at *least* the following:
 * Windows 7 SP1+
 * CPU with SSE2 instruction set support
 * Graphics card with DX11 (shader model 4.0) capabilities.
+* 9GB HDD Space for PokeOne Installation
 
 ### Disabling Touch Screen Interfaces
 

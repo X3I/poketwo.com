@@ -124,6 +124,7 @@ discord server.
 
 ### Johto
 
+* [The Bell Tower](/locations/bell-tower)
 * [Dragon's Den](/locations/dragons-den)
 * [Embedded Tower](/locations/embedded-tower)
 * [Whirl Islands](/locations/whirl-islands)

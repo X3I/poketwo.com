@@ -14,12 +14,13 @@ description: Live search all the content on our FAQ
     </div>
   </form>
 
-  <p><span id="results-count">0</span> results were found.</p>
+  <p><span id="results-count">∞</span> results were found.</p>
 
 </header>
 
 <div class="search-results-list">
   <ul id="search-results">
+    Loading...
   </ul>
 </div>
 

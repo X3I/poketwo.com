@@ -7,11 +7,11 @@ description: >
   gotten with having access to only Johto or Kanto.
 ---
 
+# List of Obtainable Pokemon and Evolution Guide
+
 <style>
   .green { color: green; font-weight: bold; }
 </style>
-
-# List of Obtainable Pokemon and Evolution Guide
 
 This list shows every Pokémon whether it is obtainable according to our current
 knowledge. Additionally it shows how to obtain the Pokémon and whether it can be

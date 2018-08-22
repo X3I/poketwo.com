@@ -33,3 +33,8 @@ badges are completed.
 
 As with most items, Masterball's can also be obtained by chance through Loot
 Boxes.
+
+## Trading
+
+It is also possible to buy these Pokeballs from players via trade, Prices vary but usually around 25k Pokedollars
+

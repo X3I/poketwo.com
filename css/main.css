@@ -55,15 +55,8 @@ blockquote p {
 
 /* Flex layout */
 
-.flex-layout {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
-
-.flex-content {
-  padding: 5em 0 50px;
-  flex: 1;
+.main-content {
+  padding-top: 5em;
 }
 
 /* Search Results */

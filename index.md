@@ -57,6 +57,7 @@ discord server.
 * [Magnezone](/pokemon/magnezone)
 * [Ralts](/pokemon/ralts)
 * [Snorlax](/pokemon/snorlax)
+* [Steelix](/pokemon/steelix)
 * [Tyrogue](/pokemon/tyrogue)
 
 ## Moves

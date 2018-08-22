@@ -22,4 +22,3 @@ Pokémon die, or it will lose happiness.
 * [Soothe Bell](/items/soothe-bell)
 
 ![happiness](https://i.imgur.com/vrplPkL.png)
-

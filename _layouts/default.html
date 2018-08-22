@@ -9,10 +9,14 @@ layout: nil
 
   {% include navigation.html %}
 
-  <main id="main" class="flex-content container" aria-label="Content">
+  <main id="main" class="main-content container" aria-label="Content">
+    <div class="row">
+      <div class="col">
 
-    {{ content }}
+        {{ content }}
 
+      </div>
+    </div>
   </main>
 
   {% include scripts.html %}

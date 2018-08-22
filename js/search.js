@@ -3,6 +3,11 @@
   var $input = document.getElementById('search-input');
   var $count = document.getElementById('results-count');
 
+  document.getElementById('stopsubmit').addEventListener('submit', function(e) {
+    e.preventDefault();
+    return false;
+  });
+
   function clearSearchResults() {
     $count.innerHTML = "∞";
     document.getElementById('search-results').innerHTML = "Loading...";

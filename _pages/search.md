@@ -8,7 +8,7 @@ description: Live search all the content on our FAQ
 
   <h3>Search</h3>
 
-  <form method="get" action="/search">
+  <form method="get" action="/search" id="stopsubmit">
     <div class="form-group">
       <input class="form-control form-control-lg" type="text" name="q" id="search-input" placeholder="Search...">
     </div>
@@ -60,5 +60,5 @@ window.store = [
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.2/lunr.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/1.0.0/lunr.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
-<script src="/js/search.js?v=8"></script>
+<script src="/js/search.js?v=9"></script>
 

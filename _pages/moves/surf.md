@@ -1,20 +1,43 @@
 ---
 permalink: /moves/surf
-
-image: /img/logo.png
+image: /img/moves/surf.png
 description: >
-  Kanto: You can obtain the HM Surf by finding the Secret House in the Safari Zone. It's located next to the Gold Teeth needed to complete the Warden's quest for Rock Smash, make sure to not miss it.
-  Johto: You obtain Surf after talking to the Kimono Girls at the Dance Theatre after beating the Ecruteak City Gym.
+  Surf is a damage-dealing Water-type move. It can be learned from HM03.
+  Surf can be used outside of battle to travel over bodies of water. When doing
+  so, wild Pokémon may be encountered. Surfing is a very important mechanic of the
+  games and is required to complete the game.
+  Surf requires a region-specific Gym Badge in order to be used outside of battle.
 ---
 
 # Surf
 
-## Kanto
+![surf](/img/moves/surf.png)
 
-You can obtain the HM Surf by finding the Secret House in the Safari Zone. It's located next to the Gold Teeth needed to complete the Warden's quest for Rock Smash, make sure to not miss it.
+Surf is a damage-dealing Water-type move. It can be learned from HM03.
+
+Surf can be used outside of battle to travel over bodies of water. When doing
+so, wild Pokémon may be encountered. Surfing is a very important mechanic of the
+games and is required to complete the game.
+
+Surf requires a region-specific Gym Badge in order to be used outside of battle.
+
+## Location
+
+### Kanto
+
+To use Surf outside of Battle in Kanto, you must have the Soul Badge from the
+Fushia City Gym Leader Koga.
+
+You can obtain the HM Surf by finding the Secret House in the Safari Zone. It's
+located next to the [Gold Teeth](/quests/gold-teeth) needed to complete the
+Warden's quest for [Rock Smash](/moves/rock-smash), make sure to not miss it.
 
 ![surf](/img/maps/surf.png)
 
-## Johto
+### Johto
 
-You obtain Surf after talking to the Kimono Girls at the Dance Theatre after beating the Ecruteak City Gym.
+To use Surf outside of Battle in Johto, you must have the Fog Badge from the
+Ecruteak City Gym Leader Morty.
+
+You obtain Surf after talking to the Kimono Girls at the Dance Theatre after
+beating the Ecruteak City Gym.

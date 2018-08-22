@@ -142,7 +142,7 @@ For sake of not repeating ourselves, each boss will only list its rare rewards.
 
 __Beating the Elite 4 is not needed to access this boss!__
 
-* __Location__: Bell Tower Summit ([Picture](/img/maps/ho-oh.png))
+* __Location__: Bell Tower Summit ([Picture](/img/maps/ho-oh.png), [Map](/img/maps/bell-tower-ho-oh.png))
 * __Requirements:__ Return to Elm after the 8th Gym, Rainbow Wing, Clear Bell
 
 #### Moveset

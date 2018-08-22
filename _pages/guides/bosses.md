@@ -253,7 +253,7 @@ are only summoned on a specific day, except for Thursdays:
 
 #### Notes
 
-* You just need 1 Jade Orb and a team of 3 can __all__ fight this boss, and __all_ receive rewards
+* You just need 1 Jade Orb and a team of 3 can __all__ fight this boss, and __all__ receive rewards
 * There are no cooldowns on this boss
 
 #### Rewards

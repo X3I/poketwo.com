@@ -119,6 +119,7 @@ discord server.
 
 * [Cerulean City](/locations/cerulean-city)
 * [Cerulean Cave](/locations/cerulean-cave)
+* [Cinnibar Volcano](/locations/cinnibar-volcano)
 * [Silph. Co](/locations/silph-co)
 * [Power Plant](/locations/power-plant)
 

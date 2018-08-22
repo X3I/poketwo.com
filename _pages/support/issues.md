@@ -16,7 +16,7 @@ description: >
   If nothing else works, check for more help in the Official PokéOne Discord, in the #helpdesk-client and #support-client channels.
 ---
 
-## Launcher & Game Issues
+# Launcher & Game Issues
 
 If you have __any__ problems with launching or playing the game, do these in the
 following order:

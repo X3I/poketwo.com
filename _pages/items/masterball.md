@@ -8,9 +8,9 @@ description: >
   it's in the semi-invulnerable turn of an attack, such as bosses)
 ---
 
-![master ball](/img/items/masterball.png)
-
 # Master Ball
+
+![master ball](/img/items/masterball.png)
 
 The Master Ball is a type of Poké Ball
 

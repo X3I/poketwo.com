@@ -1,6 +1,5 @@
 ---
 permalink: /support/requirements
-
 image: /img/logo.png
 description: >
   PokéOne currently only supports Windows 64-bit systems. There is currently no
@@ -16,7 +15,7 @@ description: >
   * 9GB HDD Space for PokeOne Installation
 ---
 
-## System Requirements
+# System Requirements
 
 PokéOne currently only supports Windows 64-bit systems. There is currently no
 support for Windows 32-bit or non-Windows systems (such as MacOS), and will

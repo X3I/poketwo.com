@@ -5,7 +5,7 @@ description: >
   The #community-support channel is not the correct place for economical questions.
 ---
 
-## Economical Questions
+# Economical Questions
 
 The `#community-support` channel is not the correct place for economical questions.
 

@@ -5,7 +5,6 @@ description: >
   An item to be held by a Pokémon. It boosts the power of moves, but at the cost of some HP on each hit.
 ---
 
-
 # Life Orb
 
 An item to be held by a Pokémon. It boosts the power of moves, but at the cost

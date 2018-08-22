@@ -1,3 +1,9 @@
+---
+permalink: /pokemon/steelix
+image: /img/pokemon/steelix.png
+description: Steelix is a dual-type Steel/Ground Pokémon.
+---
+
 # Steelix
 
 Steelix is a dual-type Steel/Ground Pokémon.

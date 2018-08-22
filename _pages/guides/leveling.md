@@ -17,9 +17,12 @@ To receive trainer experience and increase your trainer level, you will need to:
 * Complete Achievements
 * Daily Bosses & Quests
 
-## End-Game Pokémon
+## Leveling Pokémon
 
 The best place to level up your end-game Pokémon is Cerulean Cave for Kanto, and
-Victory Road for Johto. For lower levelled Pokémon, it's advised to do switch
-training in these areas, as the wild Pokémon there located are high levelled (~40-ish for Victory Road, ~50-ish in Cerulean Cave, some even reaching 60).
+Victory Road for Johto.
+
+For lower level Pokémon, it's advised to do switch training in these areas, as
+the wild Pokémon there located are high levelled (~40-ish for Victory Road,
+~50-ish in Cerulean Cave, some even reaching 60).
 

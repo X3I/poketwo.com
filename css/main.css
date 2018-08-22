@@ -57,7 +57,11 @@ blockquote p {
 
 .main-content {
   padding-top: 5em;
-  padding-bottom: 100px;
+  padding-bottom: 5em;
+}
+
+.main-footer {
+  margin: 5em 0 100px;
 }
 
 /* Search Results */

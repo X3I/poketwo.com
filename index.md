@@ -23,6 +23,7 @@ discord server.
 
 ## Official Links
 
+* [Official PokéOne Website](http://poke.one/)
 * [Official PokéOne Discord](https://discord.gg/bNYRTFn)
 
 ## Game Guides

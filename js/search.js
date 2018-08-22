@@ -3,6 +3,11 @@
   var $input = document.getElementById('search-input');
   var $count = document.getElementById('results-count');
 
+  function clearSearchResults() {
+    var searchResults = document.getElementById('search-results');
+    searchResults.innerHTML = "";
+  }
+
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
 
@@ -42,34 +47,44 @@
     }
   }
 
+  var searchDelay;
+
   function performSearch(query) {
-    if (query) {
-      // Ensure we reset the value of the input as well.
-      $input.value = query;
+    if (searchDelay) {
+      clearTimeout(searchDelay);
+    } else {
+      clearSearchResults();
+    }
 
-      // Initalize lunr with the fields it will be searching on. I've given title
-      // a boost of 10 to indicate matches on this field are more important.
-      var idx = lunr(function () {
-        this.field('id');
-        this.field('title', { boost: 10 });
-        this.field('author');
-        this.field('category');
-        this.field('content');
-      });
+    searchDelay = setTimeout(function() {
+      if (query) {
+        // Ensure we reset the value of the input as well.
+        $input.value = query;
 
-      for (var key in window.store) { // Add the data to lunr
-        idx.add({
-          'id': key,
-          'title': window.store[key].title,
-          'author': window.store[key].author,
-          'category': window.store[key].category,
-          'content': window.store[key].content
+        // Initalize lunr with the fields it will be searching on. I've given title
+        // a boost of 10 to indicate matches on this field are more important.
+        var idx = lunr(function () {
+          this.field('id');
+          this.field('title', { boost: 10 });
+          this.field('author');
+          this.field('category');
+          this.field('content');
         });
 
-        var results = idx.search(query); // Get lunr to perform a search
-        displaySearchResults(results, window.store); // We'll write this in the next section
+        for (var key in window.store) { // Add the data to lunr
+          idx.add({
+            'id': key,
+            'title': window.store[key].title,
+            'author': window.store[key].author,
+            'category': window.store[key].category,
+            'content': window.store[key].content
+          });
+
+          var results = idx.search(query); // Get lunr to perform a search
+          displaySearchResults(results, window.store); // We'll write this in the next section
+        }
       }
-    }
+    }, 500);
   }
 
   $input.addEventListener('keyup', function (e) {

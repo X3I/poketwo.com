@@ -12,7 +12,7 @@ description: >
 
 # The Bell Tower
 
-![bell tower](/img/location/bell-tower.png)
+![bell tower](/img/locations/bell-tower.png)
 
 The Bell Tower, known as the Tin Tower prior to Pokémon HeartGold and
 SoulSilver, is a location of Johto positioned in the northeast of Ecruteak City.
@@ -23,4 +23,4 @@ Johto, with only select people being qualified to enter it
 
 ## Location
 
-![bell tower](/img/map/bell-tower.png)
+![bell tower](/img/maps/bell-tower.png)

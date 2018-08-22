@@ -60,5 +60,5 @@ window.store = [
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.1.2/lunr.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/1.0.0/lunr.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
-<script src="/js/search.js?v=7"></script>
+<script src="/js/search.js?v=8"></script>
 

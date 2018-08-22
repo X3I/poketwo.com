@@ -48,8 +48,14 @@
   }
 
   var searchDelay;
+  var lastQuery;
 
   function performSearch(query) {
+    if (query == lastQuery) {
+      return;
+    }
+
+    lastQuery = query;
     clearSearchResults();
 
     if (searchDelay) {

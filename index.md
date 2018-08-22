@@ -9,7 +9,7 @@ PokéTwo is your secondary source for information in the
 created by your friends over in `#community-support`. Please note that this
 guide is a living __work in progress__. If you find something that's wrong or
 missing from the guides, or would like to add a new guide, please feel free to
-leave it in the `#general-support` channel in our discord server or
+leave it in the `#community-support` channel in our discord server or
 [send us a pull request](https://github.com/syntaqx/pokeone.com/pulls).
 
 # Table of Contents

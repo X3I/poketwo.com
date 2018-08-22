@@ -4,8 +4,8 @@
   var $count = document.getElementById('results-count');
 
   function clearSearchResults() {
-    var searchResults = document.getElementById('search-results');
-    searchResults.innerHTML = "";
+    $count.innerHTML = "∞";
+    document.getElementById('search-results').innerHTML = "Loading...";
   }
 
   function displaySearchResults(results, store) {
@@ -50,10 +50,10 @@
   var searchDelay;
 
   function performSearch(query) {
+    clearSearchResults();
+
     if (searchDelay) {
       clearTimeout(searchDelay);
-    } else {
-      clearSearchResults();
     }
 
     searchDelay = setTimeout(function() {

@@ -40,14 +40,17 @@ For sake of not repeating ourselves, each boss will only list its rare rewards.
 
 ### Mewtwo
 
-Found in the depths of the [Cerulean Cave](/locations/cerulean-cave), unlocked
-after the completion of the Kanto Elite 4, this Boss Pokémon starts off at level
-75, with its moveset consisting of Aura Sphere, Psychic, Barrier and Recover.
-
-* __Location:__ Cerulean Cave B1F
+* __Location:__ Cerulean Cave B1F ([Picture](/img/maps/mewtwo.png))
 * __Requirements:__ Kanto Elite 4 Completed
 
-![mewtwo](/img/maps/mewtwo.png)
+#### Moveset
+
+##### Mewtwo (Psychic) - Starting Level: 75
+
+||||
+|-|-|-|
+| Barrier | Aura Sphere |
+| Psychic | Recover     |
 
 #### Rewards
 
@@ -63,12 +66,52 @@ after the completion of the Kanto Elite 4, this Boss Pokémon starts off at leve
 
 ### Ash
 
-Found at the top of Mt. Silver, unlocked after the completion of either Elite 4s, Ash presents a team of 6 extremely high levelled Pokémon in a very balanced team composition, being the final challenge for any Pokémon Trainer in the game. His Pokémon and their movesets, along with starting levels, are found [here](https://idealsu.s-ul.eu/ngJdHw8p).
-
-* __Location:__ Mt. Silver Summit
+* __Location:__ Mt. Silver Summit ([Picture](/img/maps/ash.png))
 * __Requiremenst:__ Johto/Kanto Elite 4 Completed
 
-![ashe](/img/maps/ash.png)
+#### Moveset
+
+##### Pikachu (Electric) - Starting Level 84
+
+||||
+|-|-|-|
+| Thunderbolt | Quick Attack |
+| Volt Tackle | Iron Tail    |
+
+##### Lapras (Water/Ice) - Starting Level 80
+
+||||
+|-|-|-|
+| Body Slam | Psychic  |
+| Brine     | Blizzard |
+
+##### Snorlax (Normal) - Starting Level 82
+
+||||
+|-|-|-|
+| Shadow Ball | Crunch   |
+| Giga Impact | Blizzard |
+
+##### Venusaur (Grass/Poison) - Starting Level 81
+
+||||
+|-|-|-|
+| Frenzy Plant | Sludge Bomb |
+| Sleep Powder | Giga Drain  |
+
+##### Charizard (Fire/Flying) - Starting Level 83
+
+||||
+|-|-|-|
+| Air Slash  | Flare Blitz  |
+| Blast Burn | Dragon Pulse |
+
+##### Blastoise (Water) - Starting Level 80
+
+||||
+|-|-|-|
+| Hydro Cannon | Focus Blast |
+| Blizzard     | Flash Cannon     |
 
 #### Rewards
 
@@ -94,14 +137,19 @@ Found at the top of Mt. Silver, unlocked after the completion of either Elite 4s
 
 ### Ho-Oh
 
-Found at the top of the Bell Tower, unlocked by having the Rainbow Wing (Story Quest reward) and the Clear Bell (Kimono Girl Quest reward), along with beating the 8 Johto gyms, this Boss Pokémon starts off at level 70, with its moveset consisting of Fire Blast, Sunny Day, Extrasensory and Sacred Fire.
-
 __Beating the Elite 4 is not needed to access this boss!__
 
-* __Location__: Bell Tower Summit
+* __Location__: Bell Tower Summit ([Picture](/img/maps/ho-oh.png))
 * __Requirements:__ Return to Elm after the 8th Gym, Rainbow Wing, Clear Bell
 
-![ho-oh](/img/maps/ho-oh.png)
+#### Moveset
+
+##### Ho-Oh (Fire/Flying) - Starting Level: 70
+
+||||
+|-|-|-|
+| Sacred Fire  | Sunny Day  |
+| Extrasensory | Fire Blast |
 
 #### Rewards
 
@@ -127,17 +175,25 @@ __Beating the Elite 4 is not needed to access this boss!__
 
 Found at the depths of the [Whirl Islands](/locations/whirl-islands), Lugia, the
 Boss Pokémon, is unlocked by having the [Silver Wing](/items/silver-wing) and
-the Tidal Bell (reward from the Bell Quest, by melting the crystal with a Fire
-Pokémon in the Whirl Islands), along with beating the 8 Johto gyms, this Boss
-Pokémon starts off at level 70, with its moveset consisting of Hydro Pump, Rain
-Dance, Extrasensory and Aeroblast.
+the [Tidal Bell](/items/tidal-bell) by melting the crystal with a Fire Pokémon
+in the Whirl Islands.
 
 __Beating the Elite 4 is not needed to access this boss!__
 
 * __Location__: Bell Tower Summit
 * __Requirements:__ Return to Elm after the 8th Gym, Rainbow Wing, Clear Bell
+* __Starting Level:__ 70
 
 ![lugia](/img/maps/lugia.png)
+
+#### Moveset
+
+##### Lugia (Psychic/Flying)
+
+||||
+|-|-|-|
+| Rain Dance  | Aeroblast  |
+| Extrasensor | Hydro Pump |
 
 #### Rewards
 
@@ -169,4 +225,41 @@ are only summoned on a specific day, except for Thursdays:
 * Groudon - Wednesday and Sunday
 * Rayquaza - Tuesday and Friday
 
-All of them start at level 85, and their movesets are present here: [Kyogre](https://idealsu.s-ul.eu/0tt8UyXu), [Groudon](https://idealsu.s-ul.eu/ZIYtxsNO) and [Rayquaza](https://idealsu.s-ul.eu/U4VRDBYc).
+#### Requirements
+
+* __Requirements:__ Jade Orb
+* __Starting Level:__ 85
+
+#### Moveset
+
+#### Kyogre (Water) / Primal Form (Water) - Starting Level: 85
+
+||||
+|-|-|-|
+| Ancient Power | Origin Pulse |
+| Surf          | Thundershock |
+
+##### Groudon (Ground) / Primal Form (Ground/Fire) - Starting Level: 85
+
+||||
+|-|-|-|
+| Rest     | Earthquake |
+| Eruption | Ancient Power  |
+
+##### Rayquaza (Dragon/Flying) - Starting Level: 85
+
+||||
+|-|-|-|
+| Air Slash | Rest          |
+| Outrage   | Ancient Power |
+
+#### Notes
+
+* You just need 1 Jade Orb and a team of 3 can __all__ fight this boss, and __all_ receive rewards
+* There are no cooldowns on this boss
+
+#### Rewards
+
+* Jade Orb
+
+Additionally, `Kyogre` can drop a `Dragon Scale`

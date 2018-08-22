@@ -17,3 +17,5 @@ Name colors are based on how good your total IVs are, and is often a determinant
 * Blue 108-131
 * Purple 132-155
 * Gold 156-186 (Max)
+
+> __Note:__ These stats don't change on evolution.

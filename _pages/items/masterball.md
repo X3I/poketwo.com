@@ -28,3 +28,8 @@ You are presented a Masterball after defeating Giovanni at Silf Co.
 
 Professor Elm will give you a Masterball in New Bark Town, after all eight Johto
 badges are completed.
+
+## Loot Boxes
+
+As with most items, Masterball's can also be obtained by chance through Loot
+Boxes.

@@ -36,7 +36,7 @@ There are no plans for implementing Eevee as a Wild encounter for now.
 * <b>Jolteon</b> is a Thunder Type Pokemon and is in game, It Requires a Thunder Stone to Evolve  <br/>
 * <b>Espeon</b> is a Psychic Type Pokemon and is in game, It Requires Leveling up with 220 Happiness during the day.<br/>
 * <b>Umbreon</b> is a Dark Type Pokemon and is in game, It Requires Leveling up with 220 Happiness during the night.<br/>
-* <b>Sylveon</b> is a Fairy Type Pokemon and is in game, It Requires Leveling up a Fairy Type Move Known  <br/>
+* <b>Sylveon</b> is a Fairy Type Pokemon and is in game, It Requires Leveling up with a Fairy Type Move Known  <br/>
 * <b>Glaceon</b> is currently unavailable and cannot be got.<br/>
 * <b>Leafeon</b> is currently unavailable and cannot be got.<br/>
 

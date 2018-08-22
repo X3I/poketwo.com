@@ -180,11 +180,9 @@ in the Whirl Islands.
 
 __Beating the Elite 4 is not needed to access this boss!__
 
-* __Location__: Bell Tower Summit
+* __Location__: Bell Tower Summit ([Picture](/img/maps/lugia.png))
 * __Requirements:__ Return to Elm after the 8th Gym, Rainbow Wing, Clear Bell
 * __Starting Level:__ 70
-
-![lugia](/img/maps/lugia.png)
 
 #### Moveset
 
@@ -211,7 +209,7 @@ __Beating the Elite 4 is not needed to access this boss!__
 
 #### Notes
 
-* You need to fight a Ritual (Double) battle to two NPCs named "Feebas" and "Magikarp"
+* You need to fight a Ritual (Double) battle to two NPCs named `Feebas` and `Magikarp`
 * The level for the calculating for Trainer EXP and Pokedollars is the level of Lugia
 
 ### Kyogre/Groudon/Rayquaza

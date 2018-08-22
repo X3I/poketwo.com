@@ -21,7 +21,7 @@ Various move tutors are available throughout the regions. Additionally, there ar
 * Rock Tunnel - Rock Slide
 * Celadon (Needs HM Surf) - Softboiled
 * Celadon Dept. Store (3rd Floor) - Counter
-* Saffron City - Move Reminder (Mr. Mind - [Location](/img/maps/saffron-move-reminder-building.png), [NPC](/img/maps/saffron-move-reminder-npc.png))
+* Saffron City - Move Reminder (Mr. Mind - [Location](/img/maps/saffron-move-relearner-building.png), [NPC](/img/maps/saffron-move-relearner-npc.png))
 * Silph Co. (Floor 2F, NPC Juliet) - Thunder Wave
 * Fuchsia - Substitute (and Move Deleter)
 * Cinnabar Island - Egg Move Tutor

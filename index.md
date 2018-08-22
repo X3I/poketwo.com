@@ -22,6 +22,13 @@ discord server.
 * [Server Status](https://status.poketwo.com/)
 * [Download Mirror](https://cdn.poketwo.com/installer.exe)
 
+## General Support Guides
+
+* [Launcher & Game Issues](/support/issues) *(If your game won't launch, use this)*
+* [System Requirements](/support/requirements)
+* [Economical Questions](/support/economy)
+* [Peak Hours Guide](/support/peak-hours)
+
 ## Official Links
 
 * [Official PokéOne Discord](https://discord.gg/bNYRTFn)
@@ -150,13 +157,6 @@ discord server.
 
 * [Serena's Quest](/quests/serenas-quest)
 * [Kimono Girls](/quests/kimono-girls)
-
-## Support Guides
-
-* [Launcher & Game Issues](/support/issues)
-* [System Requirements](/support/requirements)
-* [Economical Questions](/support/economy)
-* [Peak Hours Guide](/support/peak-hours)
 
 ## Other Useful Resources
 

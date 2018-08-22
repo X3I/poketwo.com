@@ -12,6 +12,8 @@ description: >
 The Wardens Quest is required to obtain [Rock Smash](/moves/rock-smash). You
 start the quest by speak to `Warden`, where we only speaks gibberish.
 
+> "flealf glf mfmfl feefh"
+
 ![wardens quest](/img/maps/rock-smash.png)
 
 Then, travel to the Safari Zone, and retrieve his

@@ -51,6 +51,9 @@ Find which nature corresponds to your preferred stat boosts/drops.
 | ↑ **Sp. Def** | Calm      | Gentle     | Careful     | **Quirky** | Sassy       |
 | ↑ **Speed**   | Timid     | Hasty      | Jolly       | Naive      | **Serious** |
 
+> __Note:__ Bolded natures have no effect, because they both increase and
+> decrease the same state. These are considered Neutral Natures.
+
 ## Natures alphabetically
 
 Check which stats are raised/lowered by your Pokémon's nature.

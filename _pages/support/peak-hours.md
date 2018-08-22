@@ -44,4 +44,4 @@ to address the servers stability.
 Peak Hours are roughly 5:00 PM - 12:00 AM UTC. You should convert this to your
 timezone.
 
-Please visit https://time.is/UTC for a 24 hour UTC clock.
+Please visit [https://time.is/UTC](https://time.is/UTC) for a 24 hour UTC clock.

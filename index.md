@@ -152,7 +152,7 @@ leave it in the `#community-support` channel in our discord server or
 ## TM Locations
 
 * [TM 29 - Psychic](/tm/29)
-* [TM 36 - Slude Bomb](/tm/36)
+* [TM 36 - Sludge Bomb](/tm/36)
 
 ## Quests
 

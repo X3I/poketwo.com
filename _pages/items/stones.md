@@ -17,9 +17,9 @@ You find the Dusk Stone in Cerulean Cave in the green crystals to the left of Me
 
 You can find the Dawn Stone near the summit of Mt. Silver between two trees, inside of a pokeball.
 
-## Water Stone
+## Evolution Stones
 
-Celadon/Goldenrod Department Stores 4th floor sell the Water Stone.
+Celadon/Goldenrod Department Stores 4th floor sell the Evolution Stones, Like Fire & Water Stones etc etc.
 
 ## Mega Stones
 

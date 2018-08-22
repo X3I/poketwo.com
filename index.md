@@ -2,7 +2,11 @@
 image: /img/logo.png
 ---
 
-# PokeTwo - The Unofficial FAQ for PokéOne
+# PokéTwo - The Unofficial FAQ for PokéOne
+
+PokéTwo is your secondary source for information in the
+[PokéOne](http://poke.one/) MMO. This is an __unofficial__ guide, and has been
+created by your friends over in `#community-support`.
 
 Please note that this guide is a living __work in progress__. If you find
 something that's wrong or missing from the guides, or would like to add a new

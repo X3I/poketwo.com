@@ -7,4 +7,5 @@ description: Metal Coat is a rare random drop from the daily boss encounter with
 
 # Metal Coat
 
-Metal Coat is a rare random drop from the daily boss encounter with Ash.
+Metal Coat is a rare random drop from the daily boss encounter with
+[Ash](/guides/bosses#ash).

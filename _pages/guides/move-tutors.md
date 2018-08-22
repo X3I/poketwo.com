@@ -23,7 +23,7 @@ Heart Scale is used as currency to learn moves from Tutors.
 * Rock Tunnel - Rock Slide
 * Celadon (Needs HM Surf) - Softboiled
 * Celadon Dept. Store (3rd Floor) - Counter
-* Saffron City - Move Reminder (Mr. Mind - [Location](/img/maps/saffron-move-relearner-building.png), [NPC](/img/maps/saffron-move-relearner-npc.png))
+* Saffron City - Move Reminder (Relearner) (Mr. Mind - [Location](/img/maps/saffron-move-relearner-building.png), [NPC](/img/maps/saffron-move-relearner-npc.png))
 * Silph Co. (Floor 2F, NPC Juliet) - Thunder Wave
 * Fuchsia - Substitute (and Move Deleter)
 * Cinnabar Island - Egg Move Tutor
@@ -34,4 +34,4 @@ Heart Scale is used as currency to learn moves from Tutors.
 
 * Ilex Forest - Headbutt
 * Cianwood - Egg Move Tutor
-* Blackthorn - Draco Meteor/Move Reminder/Deleter/Powerful Starter-Based Moves (Frenzy Plant, Hydro Cannon and Blast Burn)
+* Blackthorn - Draco Meteor/Move Reminder (Relearner)/Deleter/Powerful Starter-Based Moves (Frenzy Plant, Hydro Cannon and Blast Burn)

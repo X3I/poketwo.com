@@ -8,6 +8,6 @@ description: >
 
 # Rock Smash
 
-You can obtain the Rock Smash HM by completing the
+You can obtain the HM06 Rock Smash by completing the
 [Warden's Quest](/quests/wardens-quest) for [Gold Teeth](/items/gold-teeth) in
 the Safari Zone.

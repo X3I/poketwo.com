@@ -7,6 +7,7 @@ description: >
 redirect_from:
   - /pokemon/mewtwo
   - /pokemon/ho-oh
+  - /pokemon/hooh
   - /pokemon/lugia
   - /pokemon/kyogre
   - /pokemon/groudon

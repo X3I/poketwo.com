@@ -48,7 +48,7 @@ window.store = [
           "tags"     : "{{ page.tags | join: ', ' }}",
           "url"      : "{{ page.url | absolute_url }}",
           "date"     : "{{ page.date }}",
-          "content"  : {{ page.content | strip_html | strip_newlines | default: "" | jsonify }}
+          "content"  : {{ page.content | strip_html | default: "" | jsonify }}
       {% endif %}
      {% endif %}
    } {% unless forloop.last %},{% endunless %}

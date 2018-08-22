@@ -31,7 +31,14 @@ There are no plans for implementing Eevee as a Wild encounter for now.
 
 ## Eeveelutions
 
-All eeveelutions exist in the game, __except__ Glaceon and Leafeon (for now).
+Vaporeon is one of the eight Pokémon that evolved from Eevee. It Evolves from Eevee by use of the Water Stone.<br/>
+Flareon is one of the eight Pokémon that evolved from Eevee. It Evolves from Eevee by use of the Fire Stone.<br/>
+Jolteon is one of the eight Pokémon that evolved from Eevee. It Evolves from Eevee by use of the Thunder Stone.  <br/>
+Espeon is one of the eight evolved forms of Eevee. It Evolves into Espeon by Leveling up with 220 Happiness during the day.<br/>
+Umbreon is one of the eight evolved forms of Eevee. It Evolves into Umbreon by Leveling up with 220 Happiness during the night.<br/>
+Sylveon is one of the eight evolved forms of Eevee. It Evolves into Sylveon by Leveling up with a fairy type move known.  <br/>
+Glaceon is currently unavailable and cannot be got.<br/>
+Leafeon is currently unavailable and cannot be got.<br/>
 
 ### Hidden Abilities
 

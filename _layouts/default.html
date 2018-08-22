@@ -1,0 +1,21 @@
+---
+layout: nil
+---
+
+<!doctype html>
+<html>
+{% include head.html %}
+<body class="flex-layout">
+
+  {% include navigation.html %}
+
+  <main id="main" class="flex-content container" aria-label="Content">
+
+    {{ content }}
+
+  </main>
+
+  {% include scripts.html %}
+
+</body>
+</html>

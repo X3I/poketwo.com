@@ -9,14 +9,6 @@ something that's wrong or missing from the guides, or would like to add a new
 guide, please feel free to leave it in the `#general-support` channel in our
 discord server.
 
-# Search
-
-<form method="get" action="/search">
-  <div class="form-group">
-    <input class="form-control form-control-lg" type="text" name="q" id="search-input" placeholder="Search...">
-  </div>
-</form>
-
 # Table of Contents
 
 * [Server Status](https://status.poketwo.com/)

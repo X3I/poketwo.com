@@ -49,10 +49,10 @@ For sake of not repeating ourselves, each boss will only list its rare rewards.
 
 ##### Mewtwo (Psychic) - Starting Level: 75
 
-|||
-|-|-|
-| Barrier | Aura Sphere |
-| Psychic | Recover     |
+* Barrier
+* Aura Sphere
+* Psychic
+* Recover
 
 #### Rewards
 
@@ -75,45 +75,45 @@ For sake of not repeating ourselves, each boss will only list its rare rewards.
 
 ##### Pikachu (Electric) - Starting Level 84
 
-|||
-|-|-|
-| Thunderbolt | Quick Attack |
-| Volt Tackle | Iron Tail    |
+* Thunderbolt
+* Quick Attack
+* Volt Tackle
+* Iron Tail
 
 ##### Lapras (Water/Ice) - Starting Level 80
 
-|||
-|-|-|
-| Body Slam | Psychic  |
-| Brine     | Blizzard |
+* Body Slam
+* Psychic
+* Brine
+* Blizzard
 
 ##### Snorlax (Normal) - Starting Level 82
 
-|||
-|-|-|
-| Shadow Ball | Crunch   |
-| Giga Impact | Blizzard |
+* Shadow Ball
+* Crunch
+* Giga Impact
+* Blizzard
 
 ##### Venusaur (Grass/Poison) - Starting Level 81
 
-|||
-|-|-|
-| Frenzy Plant | Sludge Bomb |
-| Sleep Powder | Giga Drain  |
+* Frenzy Plant
+* Sludge Bomb
+* Sleep Powder
+* Giga Drain
 
 ##### Charizard (Fire/Flying) - Starting Level 83
 
-|||
-|-|-|
-| Air Slash  | Flare Blitz  |
-| Blast Burn | Dragon Pulse |
+* Air Slash
+* Flare Blitz
+* Blast Burn
+* Dragon Pulse
 
 ##### Blastoise (Water) - Starting Level 80
 
-|||
-|-|-|
-| Hydro Cannon | Focus Blast |
-| Blizzard     | Flash Cannon     |
+* Hydro Cannon
+* Focus Blast
+* Blizzard
+* Flash Cannon
 
 #### Rewards
 
@@ -148,10 +148,10 @@ __Beating the Elite 4 is not needed to access this boss!__
 
 ##### Ho-Oh (Fire/Flying) - Starting Level: 70
 
-|||
-|-|-|
-| Sacred Fire  | Sunny Day  |
-| Extrasensory | Fire Blast |
+* Sacred Fire
+* Sunny Day
+* Extrasensor
+* Fire Blast
 
 #### Rewards
 
@@ -190,10 +190,10 @@ __Beating the Elite 4 is not needed to access this boss!__
 
 ##### Lugia (Psychic/Flying)
 
-|||
-|-|-|
-| Rain Dance  | Aeroblast  |
-| Extrasensor | Hydro Pump |
+* Rain Dance
+* Aeroblast
+* Extrasensor
+* Hydro Pump
 
 #### Rewards
 
@@ -234,24 +234,24 @@ are only summoned on a specific day, except for Thursdays:
 
 #### Kyogre (Water) / Primal Form (Water) - Starting Level: 85
 
-|||
-|-|-|
-| Ancient Power | Origin Pulse |
-| Surf          | Thundershock |
+* Ancient Power
+* Origin Pulse
+* Surf
+* Thundershock
 
 ##### Groudon (Ground) / Primal Form (Ground/Fire) - Starting Level: 85
 
-|||
-|-|-|
-| Rest     | Earthquake |
-| Eruption | Ancient Power  |
+* Rest
+* Earthquake
+* Eruption
+* Ancient Power
 
 ##### Rayquaza (Dragon/Flying) - Starting Level: 85
 
-|||
-|-|-|
-| Air Slash | Rest          |
-| Outrage   | Ancient Power |
+* Air Slash
+* Rest
+* Outrage
+* Ancient Power
 
 #### Notes
 

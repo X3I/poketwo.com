@@ -1,0 +1,5 @@
+(function() {
+
+  $('table').addClass('table');
+
+})();

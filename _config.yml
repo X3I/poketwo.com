@@ -6,9 +6,9 @@
 # local server.
 
 # Project settings
-theme: jekyll-theme-primer
 title: &title PokeTwo
 description: The Unofficial FAQ for the PokéOne Game
+repository: syntaqx/pokeone.com
 
 # Compatibility named variables
 # These exist to provide consistency with expectations from plugins.
@@ -32,6 +32,18 @@ include: ["_pages"]
 
 # Collections
 collections:
+
+# Defaults
+defaults:
+  # *
+  - scope:
+      path: ""
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
 
 # Plugins (previously gems)
 plugins:

@@ -1,7 +1,14 @@
 ---
 permalink: /locations/indigo-plateau
 image: /img/locations/indigo-plateau.png
-description: You can get to the Power Plant by going to Route 10 (You can use Fly to get to the Pokémon Center here), then you will need to use Surf to access it.
+description: >
+  The Indigo Plateau serves as the capital for the Pokémon League in the Kanto
+  region. It is the final destination for Pokémon Trainers competing in Indigo or
+  Johto League competitions against the Elite Four. This is where the powerful
+  Elite Four battle against Trainers in a final showdown of becoming a Pokémon
+  Champion, who may be challenged after defeating all eight Gym Leaders of either
+  Kanto or Johto. It is located just north of Victory Road and Route 23, and east
+  of Mt. Silver.
 ---
 
 # Indigo Plateau

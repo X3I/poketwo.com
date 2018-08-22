@@ -137,6 +137,10 @@ discord server.
 * [Embedded Tower](/locations/embedded-tower)
 * [Whirl Islands](/locations/whirl-islands)
 
+### Others
+
+* [Indigo Plateau](/locations/indigo-plateau)
+
 ## Acronyms
 
 ### Specific Acronyms

@@ -84,6 +84,8 @@ discord server.
 * [Coin Case](/items/coin-case)
 * [Electirizer](/items/electirizer)
 * [Heart Scale](/items/heart-scale)
+* [King's Rock](/items/kings-rock)
+* [Life Orb](/items/life-orb)
 * [Gold Teeth](/items/gold-teeth)
 * [Magmarizer](/items/magmarizer)
 * [Masterball](/items/masterball)

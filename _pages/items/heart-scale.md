@@ -12,6 +12,10 @@ description: >
 
 The Heart Scale is a type of item.
 
+## Uses
+
+Heart Scale is used to learn moves from a [Move Tutor](/guides/move-tutors).
+
 ## Location
 
 You can find Heart Scale by using [Rock Smash](/moves/rock-smash). It is a

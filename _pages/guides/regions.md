@@ -22,6 +22,7 @@ progress within a normal power curve.
 ## Announced Regions
 
 * Unova - Coming in the New Year 2018/2019 (Approximately the first week of January)
+* Battle Frontier - Coming 2019
 
 There are no concrete plans for any other regions at the current time, but we
 imagine they will all be implemented eventually. Unfortunately, there is no

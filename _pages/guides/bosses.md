@@ -24,6 +24,8 @@ reset happens, and can be fought everyday. Bosses drop several useful items,
 like Evolution items, EV Training items, Hold items, and also will always give
 you Trainer EXP and money.
 
+> This page is imported from the [Unofficial Guide](https://docs.google.com/spreadsheets/d/1ptgBvTzxvzNisK1Sh7dW12IWEotlBpkpi-9TgEC3GuA/edit?usp=sharing)
+
 ## Common Rewards
 
 All Bosses have a common chance of given you any of the following rewards:

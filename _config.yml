@@ -6,7 +6,7 @@
 # local server.
 
 # Project settings
-title: &title PokeTwo - The Unofficial FAQ for PokéOne
+title: &title PokéTwo - The Unofficial FAQ for PokéOne
 description: The Unofficial FAQ for the PokéOne Game
 repository: syntaqx/pokeone.com
 

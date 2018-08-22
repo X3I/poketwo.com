@@ -161,6 +161,7 @@ discord server.
 
 * [Serena's Quest](/quests/serenas-quest)
 * [Kimono Girls](/quests/kimono-girls)
+* [Warden's Quest](/quests/wardens-quest)
 
 ## Other Useful Resources
 

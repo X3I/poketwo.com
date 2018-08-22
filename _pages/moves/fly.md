@@ -18,3 +18,7 @@ bushes. There is 1 trainer battle, and then go North for the house from there.
 ## Johto
 
 You are awarded Fly after you beat Chuck at Cianwood Gym
+
+## Controls
+
+You can find the correct way to Fly in the [Controls](/game/controls) section.

@@ -25,7 +25,14 @@ date_format: "%b %-d, %Y"
 # url: "https://pokeone.com" # baseline & protocol of the site, without trailing slash
 
 # Analytics
-google_analytics: UA-48212212-8
+# Analytics
+analytics:
+  google:
+    type: "google" # must be either: google or universal (defaults to google)
+    tracking_id: &google_analytics "UA-48212212-8"
+
+# Legacy support variables
+google_analytics: *google_analytics
 
 # Handling Reading
 include: ["_pages"]

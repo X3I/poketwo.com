@@ -34,3 +34,11 @@ top right corner of your screen. Then, select the `Roster` tab, scroll down
 until you see your name. Right Click yourself, and select `Leave Guild`
 
 ![leave guild](https://i.imgur.com/U1bHXky.png)
+
+## Guild Logo's
+
+It is impossible to import an image directly to your logo, 
+you'll need to customize it yourself on a 32x32 grid.
+Closest method you have for replication is juxtaposing it 
+against the image you want (preferably on the 32x32 scale) 
+and cross-checking it to ensure exactitude.

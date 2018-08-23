@@ -20,11 +20,12 @@ You can find the Dawn Stone near the summit of Mt. Silver between two trees, ins
 
 ## Evolution Stones
 
-Celadon/Goldenrod Department Stores 4th floor sell the Evolution Stones,
-
-Here are some of the common Evolution Stones people are looking for:
+Celedon & Goldenrod Department Stores sell Evolution Stones on the 4th floor.
+Here are the stones sold, and alternate (free) locations you can find them, as
+we know them:
 
 * Fire Stone
+* Leaf Stone
 * Water Stone
 * Thunder Stone (Also found as an Item in the Power Plant)
 

@@ -26,6 +26,7 @@ Here are some of the common Evolution Stones people are looking for:
 
 * Fire Stone
 * Water Stone
+* Thunder Stone
 
 ## Mega Stones
 

@@ -19,3 +19,5 @@ Mrs. Moon in Celadon
 ## Johto
 
 Mr. Moon in Goldenrod
+
+![item removers](/img/maps/item-removers.png)

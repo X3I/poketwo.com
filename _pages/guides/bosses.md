@@ -183,13 +183,12 @@ in the Whirl Islands.
 
 __Beating the Elite 4 is not needed to access this boss!__
 
-* __Location__: Bell Tower Summit ([Picture](/img/maps/lugia.png))
-* __Requirements:__ Return to Elm after the 8th Gym, Rainbow Wing, Clear Bell
-* __Starting Level:__ 70
+* __Location__: Waterfall Cave (Whirl Island) ([Picture](/img/maps/lugia.png))
+* __Requirements:__ Return to Elm after the 8th Gym, Tidal Bell, Silver Wing
 
 #### Moveset
 
-##### Lugia (Psychic/Flying)
+##### Lugia (Psychic/Flying) - Starting Level: 70
 
 * Rain Dance
 * Aeroblast

@@ -87,6 +87,7 @@ leave it in the `#community-support` channel in our discord server or
 * [Apricorns](/items/apricorns)
 * [Bike Voucher](/items/bike-voucher)
 * [Coin Case](/items/coin-case)
+* [Dragon Scale](/items/dragon-scale)
 * [Electirizer](/items/electirizer)
 * [Heart Scale](/items/heart-scale)
 * [King's Rock](/items/kings-rock)

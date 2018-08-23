@@ -13,8 +13,16 @@ want to buy them!).
 
 ## Purple Tents
 
-Items such as Nuggets and Stardust can be sold at Purple Tent locations for
-₽1,000. There is a purple tent in every region:
+The following items can be sold at Purple Tent locations for ₽1,000:
+
+* Nugget
+* Pearl
+* Big Pearl
+* Stardust
+* Star Shard (from [Rock Smash](/moves/rock-smash))
+* Rare Bone (from [Rock Smash](/moves/rock-smash))
+
+There is a purple tent in every region:
 
 ### Kanto
 

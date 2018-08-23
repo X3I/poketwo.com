@@ -8,8 +8,8 @@ description: The Girls for the Kimono quest are located in...
 
 The Girls for the Kimono quest are located in:
 
-* Ecruteak City Dance Hall - Beat the Grunt.
-* Ilex Forest
+* Ecruteak City Dance Threatre ([Map](/img/maps/dance-theatre.png)) - Beat the Grunt.
+* Ilex Forest ([Map](/img/maps/kimono-girl-naoko.png))
 * Underground Shopping District in Goldenrod City
 * In the Ice Path entering Blackthorn
-* Violet City
+* Violet City ([Map](/img/maps/kimono-girl-zuki.png))

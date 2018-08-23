@@ -2,18 +2,26 @@
 permalink: /support/issues
 image: /img/logo.png
 description: >
-  If you have __any__ problems with launching or playing the game, do these in the
+  If you have any problems with launching or playing the game, do these in the
   following order:
 
-  1. Open your %APPDATA%/PokeOne folder, right click on Launcher.exe, and select Run as administrator
-  2. Disable your AntiVirus program
-  3. Whitelist the game in your Firewall
-  4. Update your video card drivers from the manufacturers website (NOT the app)
+  First, be sure you're using a compatible system. You can find the game
+  requirements on our Game Requirements page.
 
-  If all of this fails, you should redownload the installer and re-install the
-  game, and recreate the steps as needed.
+  If your computer is compatible, then ensure you're allowing the game to run
+  correctly by:
 
-  If nothing else works, check for more help in the Official PokéOne Discord, in the #helpdesk-client and #support-client channels.
+  1. Allow/Whitelist both the P1.exe and Launcher.exe (Found in
+     %APPDATA%/PokeOne) in your Firewall, Anti-Virus, and Windows Defender:
+  2. Update your video card drivers from the manufacturers website (NOT the app)
+  3. Restart your Computer
+
+  After doing these steps, open your %APPDATA%/PokeOne folder, right click on
+  Launcher.exe, and select Run as administrator
+
+  If you still have trouble with the launcher, it's recommended to reinstall the
+  game. Additional support channels for game-specific issues are
+  `#helpdesk-client` and `#support-client`.
 ---
 
 # Launcher & Game Issues
@@ -21,14 +29,21 @@ description: >
 If you have __any__ problems with launching or playing the game, do these in the
 following order:
 
-1. Open your `%APPDATA%/PokeOne` folder, right click on `Launcher.exe`, and select `Run as administrator`
-3. Disable your Anti-Virus program
-4. Whitelist the game in your Firewall
-5. Update your video card drivers from the manufacturers website (NOT the app)
+First, be sure you're using a compatible system. You can find the game
+requirements on our [Game Requirements](/support/requirements) page.
 
-If all of this fails, you should redownload the installer and re-install the
-game, and recreate the steps as needed.
+If your computer is compatible, then ensure you're allowing the game to run
+correctly by:
 
-If nothing else works, check for more help in the
-[Official PokéOne Discord](https://discord.gg/bNYRTFn), in the
-`#helpdesk-client` and `#support-client` channels.
+1. Allow/Whitelist both the `P1.exe` and `Launcher.exe` (Found in
+   `%APPDATA%/PokeOne`) in your Firewall, Anti-Virus, and Windows Defender:
+  * [How to for Windows Firewall](/img/maps/allow-firewall.png)
+2. Update your video card drivers from the manufacturers website (__NOT the app__)
+3. Restart your Computer
+
+After doing these steps, open your `%APPDATA%/PokeOne` folder, right click on
+`Launcher.exe`, and select `Run as administrator`
+
+If you still have trouble with the launcher, it's recommended to reinstall the
+game. Additional support channels for game-specific issues are
+`#helpdesk-client` and `#support-client`.

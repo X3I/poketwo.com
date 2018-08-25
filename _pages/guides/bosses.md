@@ -261,5 +261,7 @@ are only summoned on a specific day, except for Thursdays:
 #### Rewards
 
 * Jade Orb
+* Rare Candy
 
-Additionally, `Kyogre` can drop a `Dragon Scale`
+Additionally, `Kyogre` can drop a `Dragon Scale`.
+And `Rayquaza` can drop an `Air Balloon`.

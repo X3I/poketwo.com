@@ -17,6 +17,7 @@ You find the Dusk Stone in Cerulean Cave in the green crystals to the left of Me
 ## Dawn Stone
 
 You can find the Dawn Stone near the summit of Mt. Silver between two trees, inside of a pokeball.
+<img src="https://i.imgur.com/G2Q6vpF.png">
 
 ## Evolution Stones
 

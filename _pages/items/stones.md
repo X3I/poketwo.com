@@ -19,6 +19,12 @@ You find the Dusk Stone in Cerulean Cave in the green crystals to the left of Me
 You can find the Dawn Stone near the summit of Mt. Silver between two trees, inside of a pokeball.
 <img src="https://i.imgur.com/G2Q6vpF.png">
 
+## Shiny Stone
+
+You can find the Shiny Stone by entering National Park, and heading straight to the northen most point, and head up the stairs behind the railings.
+
+
+
 ## Evolution Stones
 
 Celedon & Goldenrod Department Stores sell Evolution Stones on the 4th floor.

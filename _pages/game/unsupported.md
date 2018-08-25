@@ -15,10 +15,10 @@ For all intents and purposes, Mega Evolutions are not in the game. The
 developers have actually created them, but they are not yet accessible to play
 with, and there is no ETA for their activation.
 
-## Breeding and XP Share
+## Breeding, XP Share, Lucky Egg, Gold Amulet 
 
-There will never be breeding or the XP Share. The reason for this is we have IV
-resets, and breeding doesn't lend itself well to an MMO game.
+There will never be breeding or the XP Share, Lucky Egg, Gold Amuelt. The reason for this is we have IV
+resets, egg move tutor and breeding doesn't lend itself well to an MMO game. **However** future events that reward eggs may be added in the game.
 
 ## Razor Claw & Razor Fang
 

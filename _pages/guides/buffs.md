@@ -28,4 +28,12 @@ odds of encountering a Shiny from `1/4096` to `1/3276.8`.
 
 ### EV Training+
 
-Increases EV training
+Increases EV training.
+
+### Trainer XP
+
+Increases the exp earned from bounties and bosses.
+
+### Pokemon XP
+
+Increases the exp pokemons gain in battle.

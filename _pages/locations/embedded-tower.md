@@ -9,3 +9,9 @@ description: Take the route West to Cianwood City, then go to the Cliff Cave B2F
 Take the route West to Cianwood City, then go to the Cliff Cave B2F. Then
 [Surf](/moves/surf) Left, and [Rock Climb](/moves/rock-climb) on a climbing
 spot.
+
+![embedded tower](/img/maps/embedded-tower-1.png)
+
+![embedded tower](/img/maps/embedded-tower-2.png)
+
+![embedded tower](/img/maps/embedded-tower-3.png)

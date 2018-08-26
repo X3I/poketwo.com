@@ -93,6 +93,7 @@ leave it in the `#community-support` channel in our discord server or
 * [King's Rock](/items/kings-rock)
 * [Life Orb](/items/life-orb)
 * [Gold Teeth](/items/gold-teeth)
+* [Leftovers](/items/leftovers)
 * [Magmarizer](/items/magmarizer)
 * [Masterball](/items/masterball)
 * [Metal Coat](/items/metal-coat)

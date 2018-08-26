@@ -8,6 +8,7 @@ description: >
 
 # Leftovers
 
-You can find Leftovers next to the Fishing House, left side. Inspect the Rock.
+You can find Leftovers next to the Fishing House, on the left side.
+Inspect the Rock.
 
 ![leftovers](/img/maps/leftovers.png)

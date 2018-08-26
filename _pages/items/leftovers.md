@@ -1,7 +1,7 @@
 ---
 permalink: /items/leftovers
 image: /img/map/leftovers.png
-description: ?
+description: >
   You can find Leftovers next to a Fishing House, left side. Inspect
   the rock.
 ---

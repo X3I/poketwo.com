@@ -85,6 +85,7 @@ leave it in the `#community-support` channel in our discord server or
 ### Specific Items
 
 * [Apricorns](/items/apricorns)
+* [Berries](/items/berries)
 * [Bike Voucher](/items/bike-voucher)
 * [Coin Case](/items/coin-case)
 * [Dragon Scale](/items/dragon-scale)

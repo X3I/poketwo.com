@@ -154,6 +154,7 @@ leave it in the `#community-support` channel in our discord server or
 
 ## TM Locations
 
+* [TM 26 - Earthquake](/tm/26)
 * [TM 29 - Psychic](/tm/29)
 * [TM 36 - Sludge Bomb](/tm/36)
 

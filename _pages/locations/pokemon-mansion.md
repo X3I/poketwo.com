@@ -26,3 +26,7 @@ In order to reach the Secret Key, you must Activate a Statue on each floor, then
 navigate to the Jumping point shown below, and fall down to the basement.
 
 ![pokemon mansion jump](/img/maps/pokemon-mansion-jump.png)
+
+Then, you'll need to activate 1 more statue, and you'll find the Secret Key.
+
+![secret key](/img/maps/secret-key.png)

@@ -8,4 +8,4 @@ description: >
 
 # Earthquake
 
-Earthquake can be found on Victory Road.
+Earthquake can be found on Victory Road as [TM26](/tm/26).

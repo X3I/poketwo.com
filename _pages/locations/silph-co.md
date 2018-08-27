@@ -39,7 +39,12 @@ Enter the Silph Co. Building, and proceed to Floor 5.
 * Head South until the end of the corridor
 * Head West towards the `Card Key`.
 
+There Card Key spawns in one of the following locations, both are fairly close
+to each other (on you just need to proceed into the Warehouse)
+
 ![silph co card key](/img/maps/silph-co-cardkey.png)
+
+![silph co card key](/img/maps/silph-co-cardkey-alt.png)
 
 Then:
 

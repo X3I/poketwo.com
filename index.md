@@ -127,6 +127,7 @@ leave it in the `#community-support` channel in our discord server or
 
 * [Cerulean City](/locations/cerulean-city)
 * [Cerulean Cave](/locations/cerulean-cave)
+* [Pokemon Mansion](/locations/pokemon-mansion)
 * [Cinnabar Volcano](/locations/cinnabar-volcano)
 * [Silph. Co](/locations/silph-co)
 * [Power Plant](/locations/power-plant)

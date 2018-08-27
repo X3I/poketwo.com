@@ -20,4 +20,7 @@ Mrs. Moon in Celadon
 
 Mr. Moon in Goldenrod
 
-![item removers](/img/maps/item-removers.png)
+<figure class="figure">
+  <img src="/img/maps/item-removers.png" class="figure-img img-fluid rounded" alt="item removers">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>

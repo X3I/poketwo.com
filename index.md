@@ -146,7 +146,6 @@ leave it in the `#community-support` channel in our discord server or
 
 ### Specific Acronyms
 
-* [BST - Base Stat Total](/acronyms/bst)
 * [HA - Hidden Ability](/acronyms/ha)
 
 ### Sets of Acronyms

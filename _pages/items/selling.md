@@ -33,4 +33,7 @@ There is a purple tent in every region:
 
 * Goldenrod City
 
-![purple tents](/img/maps/purple-tents.png)
+<figure class="figure">
+  <img src="/img/maps/purple-tents.png" class="figure-img img-fluid rounded" alt="purple tents">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>

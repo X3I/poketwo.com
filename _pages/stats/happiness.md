@@ -1,6 +1,5 @@
 ---
 permalink: /stats/happiness
-
 image: /img/logo.png
 description: >
   Happiness (which also replaces Friendliness and Affection) can be leveled up
@@ -21,4 +20,8 @@ Pokémon die, or it will lose happiness.
 * Haircuts
 * [Soothe Bell](/items/soothe-bell)
 
-![happiness](https://i.imgur.com/vrplPkL.png)
+<figure class="figure">
+  <img src="/img/maps/happiness.png" class="figure-img img-fluid rounded" alt="happiness">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>
+

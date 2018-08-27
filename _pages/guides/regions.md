@@ -34,4 +34,7 @@ To leave Kanto or Johto to the opposite region, you must first beat the
 corresponding Elite 4. Only then are you able to go from the Victory Road
 entrance building to the new region.
 
-![change regions](/img/maps/switch-regions.png)
+<figure class="figure">
+  <img src="/img/maps/switch-regions.png" class="figure-img img-fluid rounded" alt="switch regions">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>

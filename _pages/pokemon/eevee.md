@@ -25,7 +25,10 @@ gifted to you at two locations.
 
 * Ecruteak City Pokémon Center - Top Floor
 
-![eevee-locations](https://i.imgur.com/7WPAS5K.png)
+<figure class="figure">
+  <img src="/img/maps/eevee.png" class="figure-img img-fluid rounded" alt="eevee locations">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>
 
 There are no plans for implementing Eevee as a Wild encounter for now.
 

@@ -40,7 +40,10 @@ through Route 26 & 27 (to the East), and travel to the Pokémon League Reception
 Once you've arrived at the Pokémon League Reception, you can travel to Indigo
 Plateau by traveling the Northern exit of the building:
 
-![change regions](/img/maps/switch-regions.png)
+<figure class="figure">
+  <img src="/img/maps/switch-regions.png" class="figure-img img-fluid rounded" alt="switch-regions">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>
 
 ## Flying
 

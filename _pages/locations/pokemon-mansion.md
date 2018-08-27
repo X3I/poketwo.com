@@ -4,7 +4,7 @@ image: /img/locations/pokemon-mansion.png
 description: The Dragon's Den is a location in Blackthorn City in the Johto region.
 ---
 
-# Pokémon Mansion
+# Pokemon Mansion
 
 The Pokémon Mansion is a decrepit, burned-down mansion on Cinnabar Island. It
 got its name because a famous Pokémon Researcher once lived there.

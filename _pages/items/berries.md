@@ -1,3 +1,4 @@
+---
 permalink: /items/berries
 image: /img/logo.png
 description: These are the locations of Berry trees in Kanto.

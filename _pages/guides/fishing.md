@@ -44,6 +44,7 @@ various types of Fishing Rods.
 
 #### Johto
 
+- __Good Rod__: Route 33 Pokemon Center from a Fisherman
 - __Super Rod__: Lake of Rage
 
 ## Using a Fishing Rod

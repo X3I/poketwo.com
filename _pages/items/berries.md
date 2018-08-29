@@ -6,8 +6,8 @@ description: These are the locations of Berry trees in Kanto.
 
 # Berries
 
-> __Note:__ Berries can also be found as drops from Daily Bosses, Headbutt
-> Trees (different baries drop from Kanto and Johto), or from Daily Shard in
+> __Note:__ Berries can also be found as drops from Kanto Daily Bosses (Ash and Mewtwo), Headbutt
+> Trees (different berries drop in Kanto and Johto), or from Daily Shard NPC in
 > Violet City.
 
 ## Static Locations
@@ -19,7 +19,7 @@ description: These are the locations of Berry trees in Kanto.
 
 ### Route 2
 
-* Sitrus
+* 1 x Sitrus
 
 ### Route 3
 

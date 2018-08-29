@@ -27,7 +27,7 @@ There is a purple tent in every region:
 ### Kanto
 
 * Lavendar Town
-* Viridian City - Pokémon Fan Club
+* Vermillion City - Pokémon Fan Club
 
 ## Johto
 

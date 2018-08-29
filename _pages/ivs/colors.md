@@ -18,6 +18,6 @@ Name colors are based on how good your total IVs are, and is often a determinant
 * Purple 132-155
 * Gold 156-186 (Max)
 
-> __Note:__ These stats don't change on evolution, but can be randomlyh reset
+> __Note:__ These stats don't change on evolution, but can be randomly reset
 > by using the `Reset` button on the IV tab of your pokemon. Be sure to Lock
 > the good ones!

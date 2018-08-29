@@ -8,6 +8,8 @@ description: These are the locations of Acorns across Johto.
 
 These are the [locations](https://www.rp-community.de/index.php?mod=articles&action=view&id=36) of Acorns across Johto and information on how each specific pokeball works.
 
+<b>You need 3x of set Apricorn color for the Pokeball in question</b>
+
 ## Red Apricorn
 
 * Pokeball Created: Level Ball

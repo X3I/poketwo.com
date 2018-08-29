@@ -30,8 +30,13 @@ Heart Scale is used as currency to learn moves from Tutors.
 * Cinnabar Lab - Metronome
 * Victory Road - Double-Edge
 
-# Johto
+## Johto
 
 * Ilex Forest - Headbutt
 * Cianwood - Egg Move Tutor
 * Blackthorn - Draco Meteor/Move Reminder (Relearner)/Deleter/Powerful Starter-Based Moves (Frenzy Plant, Hydro Cannon and Blast Burn)
+
+<figure class="figure">
+  <img src="/img/maps/move-relearner-deleter.png" class="figure-img img-fluid rounded" alt="purple tents">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>

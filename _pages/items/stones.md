@@ -13,17 +13,20 @@ There are various evolution stones that you may need. Here are some of the more 
 
 You find the Dusk Stone in Cerulean Cave in the green crystals to the left of MewTwo
 
+<figure class="figure">
+  <img src="/img/maps/dusk-stone.png" class="figure-img img-fluid rounded" alt="purple tents">
+  <figcaption class="figure-caption text-right">Source: <a href="https://imgur.com/a/312yWyg" target="_blank">Mayday's PokeOne Guides</a>.</figcaption>
+</figure>
 
 ## Dawn Stone
 
 You can find the Dawn Stone near the summit of Mt. Silver between two trees, inside of a pokeball.
-<img src="https://i.imgur.com/G2Q6vpF.png">
+
+![dawn stone](/img/maps/dawn-stone.png)
 
 ## Shiny Stone
 
 You can find the Shiny Stone by entering National Park, and heading straight to the northen most point, and head up the stairs behind the railings.
-
-
 
 ## Evolution Stones
 

@@ -15,7 +15,6 @@ leave it in the `#community-support` channel in our discord server or
 # Table of Contents
 
 * [Server Status](https://status.poketwo.com/)
-* [Download Mirror](https://cdn.poketwo.com/installer.exe)
 
 ## General Support Guides
 

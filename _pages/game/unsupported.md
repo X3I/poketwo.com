@@ -9,6 +9,12 @@ description: Here are some common features that are asked about, and some descri
 Here are some common features that are asked about, and some descriptions as to
 them not existing in the game
 
+## Starters 
+
+It is impossible to catch or trade starters, so don't bother asking, you are limited to 1 region exclusive starter per region
+Finish kanto and you get a johto region exclusive one when u start johto
+and vice-versa for johto to kanto.
+
 ## Mega Evolutions
 
 For all intents and purposes, Mega Evolutions are not in the game. The

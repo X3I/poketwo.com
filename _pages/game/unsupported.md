@@ -28,7 +28,7 @@ resets, egg move tutor and breeding doesn't lend itself well to an MMO game. **H
 
 ## VS Seeker
 
-There is not a VS Seeker in game, nor will there be.
+There is no VS Seeker in this game, nor will there be, you have the option sometimes to rebattle a certain npc during the the daily bounties.
 
 ## Razor Claw & Razor Fang
 

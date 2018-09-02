@@ -27,6 +27,7 @@ There will never be breeding or the XP Share, Lucky Egg, Gold Amulet. The reason
 resets, egg move tutor and breeding doesn't lend itself well to an MMO game. **However** future events that reward eggs may be added in the game.
 
 ## VS Seeker
+
 There is not a VS Seeker in game, nor will there be.
 
 ## Razor Claw & Razor Fang

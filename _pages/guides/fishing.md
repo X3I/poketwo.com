@@ -36,9 +36,9 @@ various types of Fishing Rods.
 
 #### Kanto
 
-- __Old Rod__: Vermillion City
+- __Old Rod__: Vermillion City; Go to the Pokémon Center and talk to the girl. Then read the bookcases, and go back to the old man on the dock.
 - __Good Rod__: Fuchsia City (Talk to [Diego](/img/maps/kanto-good-rod.png))
-- __Super Rod__: Route 12, found in the House Pokémon Center and talk to the girl. Then read the bookcases, and go back to the old man on the dock.
+- __Super Rod__: Route 12; Found in the Fishing Hut, talk to the Old Man.
 
 ![kanto fishing](/img/maps/fishing-kanto.png)
 

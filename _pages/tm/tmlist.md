@@ -1,4 +1,9 @@
+---
 permalink: /tm/tmlist
+image: /img/logo.png
+description: >
+  Complete list of TM's in game
+---
 
 ## List of TM's currently in game
 

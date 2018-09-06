@@ -1,12 +1,12 @@
 ---
 permalink: /game/unsupported
 image: /img/logo.png
-description: Here are some common features that are asked about, and some descriptions as to them not existing in the game
+description: Here are some common features that are asked about, and some clarification  as to why they are not currently available or not in game
 ---
 
 # Unsupported Features (That People Consistently Ask About)
 
-Here are some common features that are asked about, and some descriptions <br/>
+Here are some common features that are asked about, and some clarification 
 as to why they are not currently available or not in game.
 
 ## Starters 

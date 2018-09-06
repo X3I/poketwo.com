@@ -6,8 +6,8 @@ description: Here are some common features that are asked about, and some descri
 
 # Unsupported Features (That People Consistently Ask About)
 
-Here are some common features that are asked about, and some descriptions as to
-them not existing in the game
+Here are some common features that are asked about, and some descriptions <br/>
+as to why they are not currently available or not in game.
 
 ## Starters 
 

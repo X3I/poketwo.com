@@ -69,7 +69,7 @@ For sake of not repeating ourselves, each boss will only list its rare rewards.
 
 ### Ash
 
-* __Location:__ Mt. Silver Summit ([Picture](/img/maps/ash.png))
+* __Location:__ Mt. Silver Summit ([Picture](/img/maps/ash.png))[Map](https://prntscr.com/kr70d9))
 * __Requiremenst:__ Johto/Kanto Elite 4 Completed
 
 #### Moveset

@@ -36,7 +36,11 @@ You gain access to the Legendary Dogs once you've beaten the Elite 4 in Johto.
 
 * Entei - Found in the Dark Cave
 * Raikou - Found on Route 45
-* Suicune - Found via a quest that starts in Cianwood from Eusine, Walk North to South in Path (Suicune Part I)
+* Suicune - The quest line starts in Cianwood from Eusine. 
+          * Part 1 - Walk North to South in Path
+          * Part 2 - Route 42 
+          * Part 3 - Dragon’s Den
+          * Part 4 - Mt. Mortar: Middle Entrance – Up The Waterfall
 
 ## Stats
 

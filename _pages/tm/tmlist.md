@@ -12,6 +12,7 @@ Tm02    Dragon Claw <br/>
 Tm03    Psyshock <br/>
 Tm04    Calm Mind <br/>
 Tm05    Roar<br/>
+Tm06    Toxic<br/>
 Tm07    Hail <br/>
 Tm08    Bulk Up <br/>
 Tm09    Venoshock <br/>

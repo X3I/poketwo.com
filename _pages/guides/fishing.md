@@ -44,7 +44,8 @@ various types of Fishing Rods.
 
 #### Johto
 
-- __Good Rod__: Route 32 Pokemon Center from a Fisherman NPC called Jelly
+- __Old Rod__: Route 32 Pokemon Center from a Fisherman NPC called Jelly
+- __Good Rod__: The Rod can be found in Olivine City
 - __Super Rod__: Lake of Rage
 
 ## Using a Fishing Rod

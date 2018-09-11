@@ -20,6 +20,16 @@ Vermillion City<br/>
 Cinnibar Island<br/>
 
 
+# GYMS
+
+Pewter City Gym
+Cerulean City Gym
+Celadon City Gym
+Saffron City Gym
+Vermillion City Gym
+[Fuchsia City Gym](/img/mapping/fuchsiacitygym.jpg)
+Viridian City Gym
+
 
 # PLACES
 

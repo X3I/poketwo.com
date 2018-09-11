@@ -8,8 +8,8 @@ description: >
 
 # CITIES
 
-Pallet Town <br/>
-Viridian City<br/>
+[Pallet Town](/img/mapping/pallettown.jpg) <br/>
+[Viridian City](/img/mapping/viridancity.jpg)<br/>
 Pewter City<br/>
 Cerulean City<br/>
 [Lavender Town](/img/mapping/lavendertown.jpg)<br/>
@@ -23,7 +23,7 @@ Cinnibar Island<br/>
 
 # PLACES
 
-Viridian Forest<br/>
+[Viridian Forest](/img/mapping/viridianforest.jpg)<br/>
 Mount Moon<br/>
 Rock Tunnel<br/>
 Power Plant<br/>
@@ -37,8 +37,8 @@ Tohjo Falls<br/>
 
 # ROUTES
 
-Route 1<br/>
-Route 2<br/>
+[Route 1](/img/mapping/route1.jpg)<br/>
+[Route 2](/img/mapping/route2.jpg)<br/>
 Route 3<br/>
 Route 4<br/>
 Route 5<br/>

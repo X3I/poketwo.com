@@ -6,7 +6,7 @@ description: >
 
 ---
 
-# CITIES
+## CITIES
 
 [Pallet Town](/img/mapping/pallettown.jpg) <br/>
 [Viridian City](/img/mapping/viridiancity.jpg)<br/>

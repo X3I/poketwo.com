@@ -181,6 +181,8 @@ Boss Pokémon, is unlocked by having the [Silver Wing](/items/silver-wing) and
 the [Tidal Bell](/items/tidal-bell) by melting the crystal with a Fire Pokémon
 in the Whirl Islands.
 
+[Guide Located Here](/pokemon/lugia)
+
 __Beating the Elite 4 is not needed to access this boss!__
 
 * __Location__: Waterfall Cave (Whirl Island) ([Picture](/img/maps/lugia.png))

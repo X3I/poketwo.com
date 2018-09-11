@@ -253,7 +253,7 @@ gotten with having access to only Johto or Kanto.
 |  230 | Kingdra | <span class="green">YES</span> |  | **1x** | Evolve Seadra (Trade while holding Dragon Scale) |
 |  231 | Phanpy | <span class="green">YES</span> |  | **X** | Catch |
 |  232 | Donphan | <span class="green">YES</span> | **X** | **X** | Catch, Evolve Phanpy (Lv. 25) |
-|  233 | Porygon2 |<span class="green">YES</span> | **X** | **X** | Evolve Porygon (Trade while holding Up-Grade Item)) |
+|  233 | Porygon2 |<span class="green">YES</span> |  |  | Evolve Porygon (Trade while holding Up-Grade Item)) |
 |  234 | Stantler | <span class="green">YES</span> |  | **X** | Catch |
 |  235 | Smeargle | <span class="green">YES</span> |  | **X** | Catch |
 |  236 | Tyrogue | <span class="green">YES</span> |  | **1x** | NPC Gift |

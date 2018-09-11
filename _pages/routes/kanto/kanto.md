@@ -6,7 +6,7 @@ description: >
 
 ---
 
-##CITIES
+# CITIES
 
 Pallet Town <br/>
 Viridian City<br/>
@@ -21,7 +21,7 @@ Cinnibar Island<br/>
 
 
 
-#PLACES#
+# PLACES
 
 Viridian Forest<br/>
 Mount Moon<br/>
@@ -34,7 +34,7 @@ Tohjo Falls<br/>
 [Victory Road](/img/mapping/victoryroad.jpg)<br/>
 
 
-#ROUTES#
+# ROUTES
 
 Route 1<br/>
 Route 2<br/>

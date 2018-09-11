@@ -29,6 +29,8 @@ Saffron City Gym <br/>
 Vermillion City Gym <br/>
 [Fuchsia City Gym](/img/mapping/fuchsiacitygym.jpg) <br/>
 Viridian City Gym <br/>
+[Cinnabar Island Gym](/img/mapping/cinnabargym.png)  <br/>
+[Seafoam Islands Gym](/img/mapping/seafoamgym.png)  <br/>
 
 
 # PLACES

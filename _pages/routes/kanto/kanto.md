@@ -58,7 +58,7 @@ Route 8<br/>
 Route 9<br/>
 Route 10<br/>
 Route 11<br/>
-Route 12<br/>
+[Route 12](/img/mapping/route12.jpg)<br/>
 Route 13<br/>
 Route 14<br/>
 Route 15<br/>

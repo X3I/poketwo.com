@@ -22,13 +22,13 @@ Cinnibar Island<br/>
 
 # GYMS
 
-Pewter City Gym
-Cerulean City Gym
-Celadon City Gym
-Saffron City Gym
-Vermillion City Gym
-[Fuchsia City Gym](/img/mapping/fuchsiacitygym.jpg)
-Viridian City Gym
+Pewter City Gym <br/>
+Cerulean City Gym <br/>
+Celadon City Gym <br/>
+Saffron City Gym <br/>
+Vermillion City Gym <br/>
+[Fuchsia City Gym](/img/mapping/fuchsiacitygym.jpg) <br/>
+Viridian City Gym <br/>
 
 
 # PLACES

@@ -1,5 +1,5 @@
 ---
-permalink: /pokemon/lugia
+permalink: /pokemon/lugiaguide
 image: /img/pokemon/lugia.png
 description: >
   Lugia is a Boss Pokémon.

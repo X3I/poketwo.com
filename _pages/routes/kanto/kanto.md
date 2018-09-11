@@ -6,7 +6,7 @@ description: >
 
 ---
 
-#CITIES#
+##CITIES
 
 Pallet Town <br/>
 Viridian City<br/>

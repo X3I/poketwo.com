@@ -12,11 +12,11 @@ Pallet Town <br/>
 Viridian City<br/>
 Pewter City<br/>
 Cerulean City<br/>
-Lavender Town<br/>
+[Lavender Town](/img/mapping/lavendertown.jpg)<br/>
 Celadon City<br/>
 Saffron City<br/>
 Vermillion City<br/>
-Fuchsia City<br/>
+[Fuchsia City](/img/mapping/fuchsiacity.jpg)<br/>
 Cinnibar Island<br/>
 
 
@@ -31,6 +31,7 @@ Radio Tower<br/>
 Silph Co<br/>
 Seafoam Islands<br/>
 Tohjo Falls<br/>
+[Pokemon Tower](/img/mapping/pokemontower.jpg)<br/>
 [Victory Road](/img/mapping/victoryroad.jpg)<br/>
 
 

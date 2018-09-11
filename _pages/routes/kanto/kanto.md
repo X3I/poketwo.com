@@ -9,7 +9,7 @@ description: >
 # CITIES
 
 [Pallet Town](/img/mapping/pallettown.jpg) <br/>
-[Viridian City](/img/mapping/viridancity.jpg)<br/>
+[Viridian City](/img/mapping/viridiancity.jpg)<br/>
 Pewter City<br/>
 Cerulean City<br/>
 [Lavender Town](/img/mapping/lavendertown.jpg)<br/>

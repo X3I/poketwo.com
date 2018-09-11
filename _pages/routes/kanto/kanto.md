@@ -31,7 +31,7 @@ Radio Tower<br/>
 Silph Co<br/>
 Seafoam Islands<br/>
 Tohjo Falls<br/>
-[Victory Road](/img/maping/victoryroad.jpg)<br/>
+[Victory Road](/img/mapping/victoryroad.jpg)<br/>
 
 
 #ROUTES#

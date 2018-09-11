@@ -1,4 +1,10 @@
+---
+permalink: /routes/kanto
+image: /img/logo.png
+description: >
+  Route Maps of Kanto
 
+---
 
 #CITIES#
 

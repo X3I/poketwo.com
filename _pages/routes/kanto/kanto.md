@@ -45,6 +45,7 @@ Seafoam Islands<br/>
 Tohjo Falls<br/>
 [Pokemon Tower](/img/mapping/pokemontower.jpg)<br/>
 [Victory Road](/img/mapping/victoryroad.jpg)<br/>
+Safari Zone
 
 
 # ROUTES

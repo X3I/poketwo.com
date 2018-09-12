@@ -59,7 +59,7 @@ Route 6<br/>
 Route 7<br/>
 Route 8<br/>
 Route 9<br/>
-Route 10<br/>
+[Route 10](/img/mapping/route10.jpg)<br/>
 Route 11<br/>
 [Route 12](/img/mapping/route12.jpg)<br/>
 Route 13<br/>

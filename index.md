@@ -110,6 +110,7 @@ leave it in the `#community-support` channel in our discord server or
 * [Hidden Items](/items/hidden)
 * [Selling Items](/items/selling)
 
+
 ## IVs
 
 * [Name Colors](/ivs/colors)
@@ -130,6 +131,7 @@ leave it in the `#community-support` channel in our discord server or
 * [Cinnabar Volcano](/locations/cinnabar-volcano)
 * [Silph. Co](/locations/silph-co)
 * [Power Plant](/locations/power-plant)
+* [Pokemon Lab](/locations/pokemon-lab)
 
 ### Johto
 

@@ -39,6 +39,7 @@ leave it in the `#community-support` channel in our discord server or
 * [Leveling](/guides/leveling)
 * [Move Tutors](/guides/move-tutors)
 * [Regions](/guides/regions)
+* [TM List](/tm/tmlist)
 
 ## Game Features
 

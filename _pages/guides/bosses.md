@@ -43,7 +43,7 @@ For sake of not repeating ourselves, each boss will only list its rare rewards.
 
 ### Mewtwo
 
-* __Location:__ Cerulean Cave B1F ([Picture](/img/maps/mewtwo.png))
+* __Location:__ Cerulean Cave B1F ([Picture](/img/maps/mewtwo.png))([Map](https://prntscr.com/kr7foz))
 * __Requirements:__ Kanto Elite 4 Completed
 
 #### Moveset

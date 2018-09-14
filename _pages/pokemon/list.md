@@ -312,7 +312,7 @@ gotten with having access to only Johto or Kanto.
 |  289 | Slaking | <span class="green">YES</span> | **X** | **X** | Evolve Vigoroth (Lv. 36) |
 |  290 | Nincada | <span class="green">YES</span> |  | **X** | Catch |
 |  291 | Ninjask | <span class="green">YES</span> |  | **X** | Evolve Nincada (Lv. 20) |
-|  292 | Shedinja | <span class="green">YES</span> |  | **X** | Evolve Nincada (Lv. 20, while having no more than 5 Pokémon in the team and at least one regular Pokéball in inventory) |
+|  292 | Shedinja | NO |  |  |  |
 |  293 | Whismur | <span class="green">YES</span> | **X** | **X** | Catch |
 |  294 | Loudred | <span class="green">YES</span> | **X** | **X** | Evolve Whismur (Lv. 20) |
 |  295 | Exploud | <span class="green">YES</span> | **X** | **X** | Evolve Loudred (Lv. 40) |
@@ -494,7 +494,7 @@ gotten with having access to only Johto or Kanto.
 |  471 | Glaceon | NO |  |  |  |
 |  472 | Gliscor | NO |  |  |  |
 |  473 | Mamoswine | <span class="green">YES</span> |  | **X** | Evolve Piloswine (Level-Up while knowing move Ancient Power) |
-|  474 | Porygon-Z | NO |  |  |  |
+|  474 | Porygon-Z | <span class="green">YES</span> |  |  | Evolve Porygon2 (Trade while holding Dubious Disc) |
 |  475 | Gallade | <span class="green">YES</span> |  |  | Evolve Kirlia (Male only, Use Dawn Stone) |
 |  476 | Probopass | <span class="green">YES</span> |  |  | Evolve Nosepass (Level-Up in Power Plant) |
 |  477 | Dusknoir | <span class="green">YES</span> |  |  | Evolve Dusclops (Trade while holding Reaper Cloth) |

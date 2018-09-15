@@ -15,7 +15,7 @@ Pewter City<br/>
 [Lavender Town](/img/mapping/lavendertown.jpg)<br/>
 Celadon City<br/>
 Saffron City<br/>
-Vermillion City<br/>
+[Vermillion City](/img/mapping/vermilion.jpg)<br/>
 [Fuchsia City](/img/mapping/fuchsiacity.jpg)<br/>
 Cinnibar Island<br/>
 

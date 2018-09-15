@@ -11,7 +11,7 @@ description: >
 [Pallet Town](/img/mapping/pallettown.jpg) <br/>
 [Viridian City](/img/mapping/viridiancity.jpg)<br/>
 Pewter City<br/>
-Cerulean City<br/>
+[Cerulean City](/img/mapping/cerulean.jpg)<br/>
 [Lavender Town](/img/mapping/lavendertown.jpg)<br/>
 Celadon City<br/>
 Saffron City<br/>

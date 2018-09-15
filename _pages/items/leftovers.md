@@ -12,3 +12,4 @@ You can find Leftovers next to the Fishing House, on the left side.
 Inspect the Rock.
 
 ![leftovers](/img/maps/leftovers.png)
+![leftovers](/img/items/leftovers1.png)

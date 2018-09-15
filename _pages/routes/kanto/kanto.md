@@ -57,10 +57,10 @@ Route 4<br/>
 Route 5<br/>
 Route 6<br/>
 Route 7<br/>
-Route 8<br/>
+[Route 8](/img/mapping/route8.jpg)<br/>
 Route 9<br/>
 [Route 10](/img/mapping/route10.jpg)<br/>
-Route 11<br/>
+[Route 11](/img/mapping/route11.jpg)<br/>
 [Route 12](/img/mapping/route12.jpg)<br/>
 Route 13<br/>
 Route 14<br/>

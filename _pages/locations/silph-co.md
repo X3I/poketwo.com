@@ -33,6 +33,8 @@ Saffron City
 
 ## Guide
 
+<b>Heal Bed on 9th Floor, Bottom left Corner </b>
+
 Enter the Silph Co. Building, and proceed to Floor 5.
 
 * Head East, and pass `Team Rocket Taylor`

@@ -28,7 +28,7 @@ requirements on our [Game Requirements](/support/requirements) page.
 If your computer is compatible, then ensure you're allowing the game to run
 correctly by:
 
-1. Make sure you are using Windows OS, do NOT use the 32bit Client if you have a 64Bit OS
+1. Make sure you are using the correct version to match your PC and are running Windows (Don't use the 32 bit client if you're on a 64bit system)
 2. Make sure you have [MicroSoft .Net Framework](https://www.microsoft.com/en-au/download/details.aspx?id=48130)
 3. Allow/Whitelist both the `P1.exe` and `Launcher.exe` from your installation
   (defaults to `%APPDATA%/PokeOne`) in your Firewall, Anti-Virus, and Windows

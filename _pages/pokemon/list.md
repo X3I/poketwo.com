@@ -432,7 +432,7 @@ gotten with having access to only Johto or Kanto.
 |  409 | Rampardos | NO |  |  |  |
 |  410 | Shieldon | NO |  |  |  |
 |  411 | Bastiodon | NO |  |  |  |
-|  412 | Burmy | <span class="green">YES</span> |  | **X** | Headbutt 38 |
+|  412 | Burmy | <span class="green">YES</span> |  | **X** | Headbutt Route 38 |
 |  413 | Wormadam | <span class="green">YES</span> |  | **X** | Evolve Burmy (female, Lv. 20) |
 |  414 | Mothim | UNKNOWN |  | **X** | Evolve Burmy (male, Lv. 20) |
 |  415 | Combee | <span class="green">YES</span> | **X** | **X** | Catch |

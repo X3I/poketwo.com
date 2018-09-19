@@ -2,8 +2,8 @@
 permalink: /support/requirements
 image: /img/logo.png
 description: >
-  PokéOne currently only supports Windows 64-bit systems. There is currently no
-  support for Windows 32-bit or non-Windows systems (such as MacOS), and will
+  PokéOne currently only supports Windows 32-bit or 64-bit systems. There is currently no
+  support for non-Windows systems (such as MacOS), and will
   likely not be made available until the post-beta stage, which currently has no
   ETA.
 
@@ -11,23 +11,26 @@ description: >
 
   * Windows 7 SP1+
   * CPU with SSE2 instruction set support
-  * Graphics card with DX11 (shader model 4.0) capabilities.
+  * Graphics card with DX11 (shader model 3.0) capabilities.
   * 9GB HDD Space for PokeOne Installation
 ---
 
 # System Requirements
 
-PokéOne currently only supports Windows 64-bit systems. There is currently no
-support for Windows 32-bit or non-Windows systems (such as MacOS), and will
-likely not be made available until the post-beta stage, which currently has no
-ETA.
+PokéOne currently only supports Windows 32-bit or 64-bit systems. There is currently no
+  support for non-Windows systems (such as MacOS), and will
+  likely not be made available until the post-beta stage, which currently has no
+  ETA.
 
 In order to fully function, your system must provide at *least* the following:
 
 * Windows 7 SP1+
 * CPU with SSE2 instruction set support
-* Graphics card with DX11 (shader model 4.0) capabilities.
+* Graphics card with DX11 (shader model 3.0) capabilities.
 * 9GB HDD Space for PokeOne Installation
+
+
+[Check if your computer can run this, with systemrequirementslab hardware check](https://systemrequirementslab.com/cyri/requirements/poke-one/18131)
 
 ### Disabling Touch Screen Interfaces
 

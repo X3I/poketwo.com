@@ -14,7 +14,7 @@ description: >
 [Cerulean City](/img/mapping/cerulean.jpg)<br/>
 [Lavender Town](/img/mapping/lavendertown.jpg)<br/>
 Celadon City<br/>
-Saffron City<br/>
+[Saffron City](/img/mapping/saffroncity.jpg)<br/>
 [Vermillion City](/img/mapping/vermilion.jpg)<br/>
 [Fuchsia City](/img/mapping/fuchsiacity.jpg)<br/>
 Cinnibar Island<br/>

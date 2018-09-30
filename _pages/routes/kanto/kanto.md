@@ -38,7 +38,7 @@ Viridian City Gym <br/>
 [Viridian Forest](/img/mapping/viridianforest.jpg)<br/>
 Mount Moon<br/>
 Rock Tunnel<br/>
-Power Plant<br/>
+[Power Plant](/img/mapping/powerplant.jpg)<br/>
 Radio Tower<br/>
 Silph Co<br/>
 Seafoam Islands<br/>

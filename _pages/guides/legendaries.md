@@ -25,7 +25,7 @@ The legendary birds:
 > progressed, and he will be waiting for you.
 
 * Moltres - Found in Victory Road ([Map](/img/maps/moltres.png))
-* Zapdos - Found in the Power Plant ([Map](/img/maps/zapdos.png))
+* Zapdos - Found in the Power Plant ([Map](/img/mapping/powerplant.jpg))
 * Articuno - Found in Seafoam Islands.
 
   To find Articuno, enter from the South Entrance, Rock Smash go up the stairs and left. Then up the ladder across the ice and to the ladder on the right top. Then down and left to the next ladder and poof you are there

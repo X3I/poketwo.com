@@ -8,4 +8,5 @@ description: >
 ## List of TM's currently in game
 ![TM KEY](/img/items/tmkey.png)
 ![TM LIST](/img/items/tmlist1.png)
+Special thanks to GaiusQuintus for making this
 <br/>

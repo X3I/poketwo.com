@@ -166,6 +166,7 @@ leave it in the `#community-support` channel in our discord server or
 * [Serena's Quest](/quests/serenas-quest)
 * [Kimono Girls](/quests/kimono-girls)
 * [Warden's Quest](/quests/wardens-quest)
+* [Tea for Cmdr Willy](/locations/cmdrwilly)
 
 ## Other Useful Resources
 

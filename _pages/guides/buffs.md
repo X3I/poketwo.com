@@ -23,7 +23,7 @@ Gives you more Money from Bounties and [Bosses](/guides/bosses).
 
 ### Shiny+
 
-Increases your odds of encountering a Shiny pokemon by 20%. This changes your
+Decreases the odds of encountering a non-shiny Pokemon by 20%. This changes your
 odds of encountering a Shiny from `1/4096` to `1/3276.8`.
 
 ### EV Training+

@@ -171,3 +171,4 @@ leave it in the `#community-support` channel in our discord server or
 ## Other Useful Resources
 
 * [Unofficial Guide](https://docs.google.com/spreadsheets/d/1ptgBvTzxvzNisK1Sh7dW12IWEotlBpkpi-9TgEC3GuA/edit?usp=sharing)
+* [PokeOne.me](https://pokeone.me)
